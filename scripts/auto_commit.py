@@ -25,7 +25,7 @@ except subprocess.CalledProcessError as e:
 
 # Git operations
 try:
-    subprocess.run(["git", "add", "."], check=True)
+    subprocess.run(["git", "add", "--ignore-removal", "."], check=True)
     
     # Check if there are any changes staged
     status_proc = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)

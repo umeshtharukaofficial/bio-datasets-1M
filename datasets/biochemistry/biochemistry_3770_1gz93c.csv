@@ -1,0 +1,803 @@
+compound,formula,mw,pka,solubility_mg_ml,class
+Caffeine,C3H32N1O3,802.62,N/A,345.168,Organic Compound
+Ethanol,C15H8N2O2,538.12,7.89,432.848,Hormone
+Ethanol,C12H8N5O4,230.16,4.41,858.162,Lipid
+Aspirin,C19H17N2O8,836.32,6.89,308.301,Organic Compound
+Ethanol,C2H32N1O7,255.58,12.83,311.543,Lipid
+Cholesterol,C13H23N4O1,490.29,4.33,181.028,Lipid
+Glucose,C11H26N2O2,828.72,N/A,629.547,Nucleotide
+Adrenaline,C15H14N2O8,388.66,N/A,382.654,Organic Compound
+Adenosine triphosphate,C9H3N0O5,266.36,8.52,6.647,Amide
+Urea,C7H23N3O8,319.51,N/A,544.284,Lipid
+Urea,C4H12N5O0,209.22,1.88,908.285,Lipid
+Cholesterol,C4H21N1O4,959.93,10.1,545.667,Nucleotide
+Glucose,C15H3N2O3,438.21,9.57,530.733,Alkaloid
+Aspirin,C9H10N3O6,983.59,7.84,384.833,Neurotransmitter
+Dopamine,C10H24N4O5,190.36,N/A,204.432,Neurotransmitter
+Glucose,C20H6N3O7,804.45,N/A,354.923,Lipid
+Dopamine,C2H5N0O2,818.19,6.81,243.111,Carbohydrate
+Adrenaline,C4H12N2O8,934.12,5.14,637.938,Lipid
+Adenosine triphosphate,C12H11N1O9,393.92,1.61,834.169,Neurotransmitter
+Glucose,C20H31N4O8,794.43,4.88,301.413,Amide
+Urea,C2H1N5O1,143.21,10.1,84.939,Nucleotide
+Cholesterol,C14H38N1O2,311.14,3.95,682.125,Amide
+Adenosine triphosphate,C17H26N4O1,473.3,5.36,760.73,Nucleotide
+Ethanol,C12H5N4O1,662.85,6.18,104.474,Alcohol
+Serotonin,C14H34N3O10,481.47,N/A,308.749,Lipid
+Urea,C17H18N4O7,555.16,1.69,811.997,Neurotransmitter
+Adrenaline,C14H4N3O2,297.36,10.83,849.668,Lipid
+Dopamine,C11H18N5O10,471.7,4.18,138.614,Carbohydrate
+Adrenaline,C3H39N0O4,748.67,11.95,698.956,Hormone
+Adenosine triphosphate,C13H25N3O8,428.63,4.04,283.829,Alkaloid
+Aspirin,C7H2N0O8,455.61,N/A,207.529,Neurotransmitter
+Ethanol,C2H40N3O6,406.48,7.6,225.129,Lipid
+Dopamine,C19H33N1O9,404.93,9.23,910.079,Lipid
+Adenosine triphosphate,C18H27N3O3,202.24,4.52,486.999,Amide
+Ethanol,C18H24N3O4,997.9,12.99,552.884,Neurotransmitter
+Cholesterol,C9H34N4O8,582.0,5.42,240.557,Amide
+Glucose,C2H38N3O10,748.04,N/A,770.842,Hormone
+Serotonin,C20H16N4O7,140.27,13.36,184.969,Hormone
+Urea,C2H33N0O5,723.59,9.92,491.279,Nucleotide
+Adrenaline,C3H13N2O1,423.12,8.85,424.765,Carbohydrate
+Cholesterol,C16H13N5O10,550.6,8.31,54.414,Nucleotide
+Adrenaline,C1H1N2O5,746.1,9.39,117.243,Hormone
+Ethanol,C5H20N0O5,479.63,1.22,500.083,Carbohydrate
+Cholesterol,C19H19N1O1,313.8,6.93,722.6,Alcohol
+Urea,C1H16N3O9,474.38,4.86,197.962,Lipid
+Cholesterol,C17H17N3O5,91.75,13.06,604.425,Lipid
+Aspirin,C18H29N2O10,124.09,3.19,329.443,Carbohydrate
+Adrenaline,C9H33N1O2,984.25,10.83,71.663,Nucleotide
+Adrenaline,C17H32N2O10,281.08,N/A,281.978,Neurotransmitter
+Dopamine,C1H15N1O0,253.31,12.7,949.304,Organic Compound
+Urea,C5H17N4O4,554.61,10.31,219.402,Alcohol
+Caffeine,C5H2N2O3,722.18,N/A,590.154,Alcohol
+Urea,C10H15N3O3,537.12,2.02,276.69,Alkaloid
+Adenosine triphosphate,C5H34N1O10,85.41,3.52,477.654,Hormone
+Ethanol,C6H18N4O6,266.29,5.84,217.017,Organic Compound
+Glucose,C2H23N2O4,101.32,13.08,443.524,Carbohydrate
+Cholesterol,C8H13N2O6,617.57,11.16,617.932,Carbohydrate
+Serotonin,C15H5N5O8,360.33,N/A,178.741,Hormone
+Cholesterol,C18H5N0O4,381.81,10.08,855.816,Nucleotide
+Ethanol,C15H26N2O2,786.25,7.79,72.678,Alkaloid
+Glucose,C13H16N0O9,144.2,11.33,197.984,Amide
+Dopamine,C18H18N0O8,934.11,13.95,544.366,Alcohol
+Cholesterol,C2H24N5O4,785.53,10.85,146.571,Hormone
+Urea,C1H24N1O1,102.34,10.67,830.956,Alcohol
+Cholesterol,C20H33N5O3,65.85,12.02,690.953,Organic Compound
+Serotonin,C14H33N2O9,68.4,13.5,495.997,Amide
+Cholesterol,C11H6N5O5,489.38,5.03,300.016,Lipid
+Dopamine,C14H19N0O1,63.05,13.08,851.569,Organic Compound
+Adrenaline,C7H28N1O10,291.39,4.13,576.676,Lipid
+Dopamine,C12H5N0O8,127.51,3.09,252.75,Carbohydrate
+Aspirin,C10H37N2O4,532.47,5.96,34.794,Alkaloid
+Glucose,C11H2N1O0,477.17,10.1,637.276,Amide
+Ethanol,C3H10N2O10,500.07,2.97,480.237,Neurotransmitter
+Adrenaline,C14H27N2O1,210.24,N/A,565.977,Alkaloid
+Aspirin,C1H18N4O5,401.38,3.07,150.696,Nucleotide
+Urea,C17H15N4O0,541.53,10.62,315.178,Amide
+Adrenaline,C17H27N2O4,895.86,13.59,563.792,Lipid
+Adenosine triphosphate,C3H18N2O7,257.01,10.42,387.744,Alcohol
+Dopamine,C6H6N5O2,415.8,2.97,241.689,Alcohol
+Caffeine,C15H12N1O6,900.26,5.06,922.508,Hormone
+Caffeine,C11H5N0O4,607.18,6.73,599.202,Carbohydrate
+Cholesterol,C5H27N5O6,818.69,N/A,314.073,Nucleotide
+Glucose,C20H8N3O3,62.35,9.31,216.78,Neurotransmitter
+Adrenaline,C19H15N4O9,714.42,5.75,308.496,Amide
+Dopamine,C13H24N5O4,522.03,11.64,899.587,Organic Compound
+Cholesterol,C16H14N2O5,685.81,9.62,457.26,Hormone
+Ethanol,C14H25N0O7,331.92,13.73,580.337,Lipid
+Adrenaline,C5H19N2O6,283.33,8.0,149.334,Alkaloid
+Glucose,C9H38N4O2,237.06,N/A,2.611,Amide
+Glucose,C17H19N5O7,83.45,5.69,433.478,Organic Compound
+Urea,C5H1N4O0,512.9,N/A,78.468,Nucleotide
+Serotonin,C5H25N2O2,204.63,5.7,461.626,Alcohol
+Cholesterol,C3H26N3O9,584.39,11.83,373.493,Neurotransmitter
+Dopamine,C14H28N3O7,697.72,N/A,509.943,Carbohydrate
+Glucose,C1H11N3O3,302.35,11.44,152.687,Nucleotide
+Adrenaline,C9H32N2O3,686.11,8.42,439.957,Hormone
+Ethanol,C7H28N1O3,712.34,4.51,608.525,Nucleotide
+Adenosine triphosphate,C19H7N5O4,895.94,2.85,796.501,Alcohol
+Adenosine triphosphate,C15H31N2O9,796.64,1.48,295.735,Organic Compound
+Ethanol,C1H24N1O9,574.49,2.4,21.138,Organic Compound
+Ethanol,C5H20N5O9,889.82,11.8,572.118,Carbohydrate
+Dopamine,C14H31N1O5,315.24,4.21,806.11,Hormone
+Urea,C18H27N4O5,525.73,10.05,868.115,Neurotransmitter
+Caffeine,C2H16N4O1,917.5,4.08,690.823,Lipid
+Caffeine,C1H13N4O10,322.84,8.15,976.853,Lipid
+Cholesterol,C7H13N1O6,131.99,6.66,765.939,Alkaloid
+Aspirin,C7H24N5O8,767.54,13.78,817.285,Amide
+Ethanol,C4H4N0O6,686.53,12.16,821.598,Nucleotide
+Dopamine,C2H39N2O4,684.94,4.6,168.684,Organic Compound
+Glucose,C2H34N1O2,851.16,8.45,380.487,Nucleotide
+Serotonin,C2H30N0O1,409.68,5.21,606.486,Organic Compound
+Adrenaline,C18H14N1O5,542.87,10.22,729.666,Neurotransmitter
+Caffeine,C16H30N2O10,374.75,13.52,962.042,Hormone
+Urea,C17H7N0O3,680.93,7.64,725.973,Alcohol
+Serotonin,C3H6N1O8,655.06,7.16,361.532,Amide
+Caffeine,C10H11N3O5,549.7,5.19,222.728,Hormone
+Serotonin,C7H3N2O7,721.48,10.74,891.287,Alcohol
+Serotonin,C7H1N4O7,502.71,6.39,586.747,Alkaloid
+Glucose,C3H29N2O8,302.38,7.39,213.548,Hormone
+Adrenaline,C20H26N0O4,841.8,1.03,579.653,Hormone
+Adenosine triphosphate,C4H30N0O4,865.12,7.16,647.479,Alcohol
+Aspirin,C9H20N1O3,839.65,5.02,688.254,Lipid
+Adrenaline,C2H20N5O9,962.93,2.8,329.454,Nucleotide
+Cholesterol,C5H25N2O2,237.46,5.63,168.348,Alcohol
+Cholesterol,C5H10N0O7,767.18,13.76,377.514,Hormone
+Aspirin,C9H29N1O7,768.38,13.88,274.079,Nucleotide
+Caffeine,C3H12N1O8,348.74,3.19,480.456,Neurotransmitter
+Dopamine,C18H19N4O6,604.12,4.37,374.551,Organic Compound
+Glucose,C8H31N0O0,357.67,8.77,765.089,Carbohydrate
+Ethanol,C20H4N0O9,459.67,13.91,757.279,Alcohol
+Adenosine triphosphate,C4H2N5O5,714.11,3.12,331.685,Carbohydrate
+Dopamine,C19H28N4O2,692.86,11.49,581.59,Nucleotide
+Glucose,C2H8N4O10,913.27,1.8,367.225,Lipid
+Cholesterol,C10H12N5O6,625.96,N/A,179.951,Neurotransmitter
+Urea,C17H13N4O9,236.55,10.13,202.114,Alkaloid
+Serotonin,C8H22N1O1,855.01,11.68,87.248,Neurotransmitter
+Adenosine triphosphate,C9H36N2O3,734.86,11.28,339.775,Nucleotide
+Cholesterol,C18H14N0O1,456.12,4.98,153.125,Neurotransmitter
+Urea,C19H39N1O8,613.75,1.43,682.253,Alcohol
+Cholesterol,C4H5N5O6,759.1,N/A,258.602,Lipid
+Ethanol,C19H12N4O4,960.11,4.8,580.806,Alcohol
+Urea,C12H29N2O0,393.62,1.83,586.364,Alcohol
+Urea,C17H27N4O9,208.5,1.4,72.785,Carbohydrate
+Adenosine triphosphate,C4H18N5O10,182.73,1.97,772.781,Amide
+Adenosine triphosphate,C14H31N4O4,728.05,6.86,372.506,Hormone
+Cholesterol,C1H17N2O6,73.71,13.83,669.035,Alcohol
+Adrenaline,C12H39N5O0,987.05,N/A,236.306,Amide
+Adrenaline,C6H37N3O4,176.21,6.18,11.994,Alcohol
+Adrenaline,C16H39N4O5,902.83,12.08,142.959,Alcohol
+Caffeine,C20H4N1O3,369.61,10.04,248.836,Amide
+Cholesterol,C17H10N4O3,607.43,N/A,682.972,Nucleotide
+Caffeine,C6H18N4O5,322.43,N/A,635.669,Organic Compound
+Cholesterol,C14H33N1O1,157.79,9.32,549.702,Alkaloid
+Ethanol,C9H26N4O8,455.81,13.91,690.424,Organic Compound
+Ethanol,C2H25N3O8,467.13,11.86,337.144,Organic Compound
+Urea,C18H12N3O1,931.23,7.36,115.43,Neurotransmitter
+Cholesterol,C14H32N1O1,164.38,9.38,322.642,Carbohydrate
+Urea,C7H24N1O0,942.14,12.14,374.586,Hormone
+Cholesterol,C13H10N3O9,446.95,5.85,50.974,Alcohol
+Adenosine triphosphate,C11H38N5O7,826.43,1.5,361.039,Amide
+Urea,C12H33N4O9,741.84,7.17,599.632,Alkaloid
+Glucose,C14H23N4O9,859.76,N/A,802.818,Carbohydrate
+Cholesterol,C18H1N1O3,90.54,10.02,508.191,Amide
+Adrenaline,C19H38N5O2,282.29,4.25,452.449,Lipid
+Urea,C17H19N4O7,956.35,4.12,754.407,Alkaloid
+Adenosine triphosphate,C7H40N3O7,777.72,5.23,23.975,Organic Compound
+Caffeine,C16H5N3O0,539.97,9.58,226.956,Alcohol
+Ethanol,C2H29N5O6,751.63,4.12,538.314,Neurotransmitter
+Aspirin,C15H28N5O4,686.97,N/A,243.357,Hormone
+Dopamine,C8H13N1O2,374.37,6.36,727.868,Organic Compound
+Adenosine triphosphate,C12H18N1O6,415.11,N/A,934.588,Organic Compound
+Serotonin,C4H26N4O0,796.28,6.03,434.993,Nucleotide
+Caffeine,C6H14N5O4,716.09,12.69,827.645,Organic Compound
+Cholesterol,C8H5N5O5,242.04,11.82,583.632,Amide
+Urea,C9H20N1O0,956.39,13.27,149.836,Organic Compound
+Adrenaline,C8H22N3O0,771.36,4.57,989.637,Lipid
+Adrenaline,C17H13N3O9,325.28,8.07,919.204,Neurotransmitter
+Aspirin,C15H5N5O5,552.01,11.2,821.099,Hormone
+Dopamine,C11H15N3O2,848.04,8.8,975.396,Amide
+Dopamine,C1H14N0O9,907.19,N/A,586.899,Alkaloid
+Cholesterol,C20H39N5O8,887.63,6.01,758.283,Alcohol
+Urea,C2H24N1O0,904.61,1.76,188.558,Organic Compound
+Glucose,C6H38N4O0,887.0,11.31,965.166,Organic Compound
+Caffeine,C9H19N3O8,100.46,7.03,88.477,Lipid
+Aspirin,C4H40N0O8,162.23,4.49,508.919,Carbohydrate
+Adenosine triphosphate,C15H20N2O1,84.49,10.46,233.575,Neurotransmitter
+Dopamine,C5H20N4O1,427.16,N/A,729.989,Lipid
+Dopamine,C5H39N1O6,57.13,9.24,725.348,Alkaloid
+Adrenaline,C7H3N0O7,804.05,4.65,508.687,Nucleotide
+Aspirin,C20H16N2O2,546.78,11.86,963.68,Amide
+Cholesterol,C19H15N5O6,444.47,12.17,10.122,Carbohydrate
+Adrenaline,C4H21N2O7,77.64,N/A,942.358,Amide
+Dopamine,C14H22N1O9,425.09,4.63,335.342,Organic Compound
+Serotonin,C8H30N0O4,838.26,N/A,470.06,Hormone
+Cholesterol,C1H18N3O1,186.52,11.43,634.892,Hormone
+Caffeine,C16H12N5O1,151.59,13.85,505.171,Lipid
+Ethanol,C11H32N3O8,579.62,N/A,789.792,Nucleotide
+Caffeine,C1H37N1O10,252.99,4.66,207.801,Hormone
+Urea,C20H1N4O2,523.52,9.45,840.981,Alcohol
+Adenosine triphosphate,C11H24N1O0,134.46,2.97,958.863,Carbohydrate
+Adenosine triphosphate,C15H23N1O5,682.22,7.56,605.815,Carbohydrate
+Cholesterol,C2H15N4O3,922.5,5.47,310.796,Lipid
+Glucose,C14H6N1O6,649.98,13.84,818.258,Alkaloid
+Caffeine,C4H37N2O10,427.46,9.77,866.525,Hormone
+Cholesterol,C1H11N2O9,486.33,2.7,136.34,Alkaloid
+Serotonin,C17H15N2O2,815.47,5.42,206.298,Alcohol
+Serotonin,C14H20N0O5,96.75,N/A,25.548,Lipid
+Urea,C13H14N5O5,879.9,4.21,556.124,Alkaloid
+Caffeine,C7H23N4O1,406.52,11.61,81.36,Alkaloid
+Adenosine triphosphate,C14H3N1O0,239.49,11.47,821.975,Carbohydrate
+Urea,C20H22N3O4,363.39,N/A,633.271,Organic Compound
+Cholesterol,C8H28N1O3,141.13,N/A,640.039,Organic Compound
+Adrenaline,C20H12N0O5,801.43,6.5,405.518,Alcohol
+Glucose,C5H25N3O9,567.09,11.8,289.244,Nucleotide
+Adrenaline,C16H24N2O4,153.94,12.01,474.846,Nucleotide
+Cholesterol,C11H33N1O3,124.41,8.85,256.915,Organic Compound
+Ethanol,C14H31N4O2,555.11,3.58,294.041,Amide
+Ethanol,C4H26N2O0,671.64,7.84,98.411,Amide
+Adrenaline,C3H23N5O3,431.78,6.54,104.879,Organic Compound
+Serotonin,C7H6N2O9,722.72,9.33,737.243,Organic Compound
+Serotonin,C19H25N4O6,602.45,4.8,833.718,Lipid
+Ethanol,C4H8N4O1,908.33,5.83,262.602,Carbohydrate
+Aspirin,C19H2N1O0,667.36,12.64,606.123,Amide
+Adrenaline,C17H25N1O0,742.7,4.58,627.791,Organic Compound
+Ethanol,C12H40N4O1,731.43,9.29,269.987,Carbohydrate
+Cholesterol,C19H18N0O0,234.27,8.93,743.023,Alkaloid
+Ethanol,C12H23N1O0,683.36,1.57,561.657,Alcohol
+Adrenaline,C13H23N5O10,706.89,9.72,909.453,Lipid
+Aspirin,C18H11N4O9,329.88,11.35,958.279,Nucleotide
+Adrenaline,C14H40N1O0,594.96,N/A,729.477,Organic Compound
+Urea,C6H21N2O4,903.01,8.12,646.159,Lipid
+Ethanol,C5H33N5O9,526.79,7.34,408.88,Amide
+Cholesterol,C18H27N3O1,800.01,3.54,692.566,Alkaloid
+Serotonin,C10H38N1O5,582.73,4.63,384.309,Hormone
+Adrenaline,C11H29N1O10,998.78,N/A,28.283,Lipid
+Glucose,C8H11N5O6,155.87,7.59,518.321,Nucleotide
+Ethanol,C13H24N4O7,710.69,1.82,980.711,Organic Compound
+Caffeine,C20H19N5O4,242.86,12.94,421.12,Hormone
+Ethanol,C4H39N5O0,834.74,1.6,20.089,Alcohol
+Serotonin,C10H3N5O8,800.7,3.39,539.469,Organic Compound
+Ethanol,C6H25N3O8,589.78,7.49,105.902,Alkaloid
+Dopamine,C10H35N2O7,180.75,3.77,852.358,Alkaloid
+Serotonin,C8H15N0O0,953.52,2.19,70.561,Hormone
+Glucose,C16H8N4O3,304.86,4.95,527.303,Neurotransmitter
+Cholesterol,C17H3N3O2,586.14,10.96,341.346,Hormone
+Adrenaline,C16H36N1O6,269.45,8.95,979.068,Amide
+Aspirin,C8H20N5O4,972.61,12.76,957.533,Hormone
+Cholesterol,C16H37N1O6,587.54,N/A,40.868,Carbohydrate
+Aspirin,C16H39N4O7,612.24,13.78,115.775,Neurotransmitter
+Dopamine,C3H35N2O0,445.89,N/A,341.394,Alcohol
+Aspirin,C1H5N5O6,593.05,5.74,596.311,Amide
+Dopamine,C19H11N0O5,289.77,8.53,404.516,Hormone
+Aspirin,C20H39N5O7,810.72,2.13,955.439,Nucleotide
+Dopamine,C20H14N4O4,504.86,1.64,965.074,Amide
+Cholesterol,C1H22N4O3,338.39,13.97,899.656,Hormone
+Glucose,C8H33N2O3,595.1,6.3,617.955,Alcohol
+Aspirin,C13H9N1O2,292.2,13.13,86.069,Hormone
+Cholesterol,C12H16N3O9,455.3,10.63,338.771,Lipid
+Cholesterol,C20H12N1O10,80.07,12.42,82.047,Carbohydrate
+Urea,C2H25N1O4,268.63,N/A,280.278,Alkaloid
+Adenosine triphosphate,C17H22N1O3,971.32,2.15,10.414,Carbohydrate
+Serotonin,C3H25N5O9,531.39,10.59,95.278,Neurotransmitter
+Dopamine,C11H33N1O8,137.21,N/A,601.355,Nucleotide
+Caffeine,C10H1N4O1,438.07,5.57,640.783,Alcohol
+Caffeine,C8H31N1O3,397.01,6.46,273.355,Nucleotide
+Adrenaline,C2H3N2O6,521.96,N/A,168.461,Lipid
+Urea,C13H28N2O3,352.49,10.04,826.808,Alcohol
+Dopamine,C10H5N3O4,218.38,6.79,429.444,Hormone
+Adrenaline,C14H5N1O5,156.7,11.91,211.537,Alkaloid
+Glucose,C18H13N1O6,519.11,11.1,100.182,Hormone
+Cholesterol,C10H34N3O7,815.32,6.76,97.788,Nucleotide
+Caffeine,C15H3N0O0,98.18,5.74,572.219,Neurotransmitter
+Adrenaline,C19H17N1O4,416.88,11.72,293.692,Amide
+Dopamine,C5H1N3O0,142.88,10.99,256.447,Alcohol
+Adenosine triphosphate,C11H6N5O6,194.86,2.39,213.593,Alkaloid
+Glucose,C10H32N3O9,575.7,6.32,268.345,Neurotransmitter
+Ethanol,C15H28N0O1,784.43,N/A,901.202,Hormone
+Caffeine,C9H20N2O4,749.52,4.64,396.352,Alkaloid
+Caffeine,C20H36N2O10,893.72,8.48,532.98,Amide
+Glucose,C20H16N5O6,804.34,5.36,986.802,Hormone
+Adenosine triphosphate,C1H17N0O0,298.13,2.39,768.677,Carbohydrate
+Glucose,C14H21N2O5,369.87,13.92,863.907,Amide
+Aspirin,C9H36N3O8,963.29,2.61,727.804,Amide
+Aspirin,C4H12N1O5,485.51,1.16,328.461,Hormone
+Caffeine,C4H36N5O7,463.46,N/A,131.098,Carbohydrate
+Aspirin,C6H15N0O0,964.05,9.69,986.826,Nucleotide
+Ethanol,C4H29N3O2,189.63,13.74,342.477,Nucleotide
+Dopamine,C19H30N4O2,641.2,N/A,851.687,Alcohol
+Adrenaline,C20H27N1O2,58.29,11.62,634.104,Alcohol
+Adrenaline,C9H17N3O2,429.32,8.11,889.108,Organic Compound
+Cholesterol,C19H7N4O1,378.2,2.37,469.223,Neurotransmitter
+Adenosine triphosphate,C2H11N0O6,658.1,6.28,276.555,Carbohydrate
+Urea,C16H6N1O7,411.77,N/A,958.975,Organic Compound
+Urea,C15H9N4O4,573.01,2.66,853.206,Amide
+Ethanol,C10H6N5O0,770.94,8.09,813.052,Organic Compound
+Cholesterol,C1H10N0O8,461.63,9.23,662.734,Lipid
+Caffeine,C17H20N1O6,820.72,9.45,574.566,Carbohydrate
+Caffeine,C8H28N3O1,516.12,13.64,14.207,Neurotransmitter
+Aspirin,C19H33N5O3,221.03,N/A,178.883,Alcohol
+Glucose,C10H33N4O9,488.0,2.02,374.996,Amide
+Serotonin,C14H34N3O0,800.94,8.72,895.283,Neurotransmitter
+Ethanol,C20H10N5O3,185.78,N/A,430.709,Alkaloid
+Aspirin,C19H3N0O10,168.85,9.89,777.968,Alkaloid
+Ethanol,C20H37N0O0,468.68,2.05,784.603,Lipid
+Aspirin,C6H16N5O0,962.0,7.97,883.305,Organic Compound
+Cholesterol,C4H40N3O10,872.01,7.87,930.139,Neurotransmitter
+Serotonin,C1H35N4O3,359.27,8.13,957.726,Amide
+Cholesterol,C7H2N5O8,698.34,13.35,49.874,Alcohol
+Ethanol,C4H19N0O8,266.68,13.58,875.754,Neurotransmitter
+Caffeine,C6H20N2O6,275.89,9.65,895.387,Alkaloid
+Aspirin,C16H12N3O8,121.96,N/A,269.654,Organic Compound
+Adrenaline,C7H5N1O4,339.89,9.0,158.727,Carbohydrate
+Cholesterol,C15H15N2O9,652.18,6.99,957.496,Neurotransmitter
+Adenosine triphosphate,C20H14N1O3,720.64,9.74,933.943,Hormone
+Urea,C20H29N5O2,844.72,4.22,570.084,Lipid
+Glucose,C20H3N3O10,108.73,1.9,93.428,Hormone
+Serotonin,C11H21N2O6,740.9,4.59,484.048,Organic Compound
+Glucose,C10H31N1O1,960.0,9.28,215.266,Neurotransmitter
+Aspirin,C2H31N1O9,407.44,8.15,664.221,Hormone
+Dopamine,C9H28N1O8,725.27,7.3,273.511,Hormone
+Ethanol,C6H19N0O10,519.88,5.99,683.122,Organic Compound
+Glucose,C10H25N2O7,521.37,1.6,243.155,Organic Compound
+Urea,C5H35N1O7,115.89,12.61,550.309,Alkaloid
+Dopamine,C20H4N5O2,555.18,2.37,680.503,Neurotransmitter
+Caffeine,C20H36N2O0,953.26,13.95,987.433,Organic Compound
+Glucose,C16H16N1O2,559.03,12.86,379.228,Amide
+Adenosine triphosphate,C10H8N0O3,254.84,5.14,709.835,Carbohydrate
+Serotonin,C2H39N0O8,219.07,1.52,24.741,Hormone
+Ethanol,C19H32N3O1,331.03,13.79,482.367,Neurotransmitter
+Urea,C4H28N3O0,761.67,11.05,61.544,Lipid
+Adrenaline,C5H5N1O5,755.18,9.19,632.468,Hormone
+Adrenaline,C19H13N3O8,138.01,12.32,430.526,Alcohol
+Dopamine,C9H34N0O3,321.0,12.77,684.933,Neurotransmitter
+Cholesterol,C19H14N4O0,478.17,1.24,547.794,Alcohol
+Ethanol,C20H27N4O5,566.7,11.63,778.458,Nucleotide
+Cholesterol,C20H39N1O4,853.98,12.05,89.938,Amide
+Glucose,C1H9N5O3,801.05,8.12,140.245,Neurotransmitter
+Ethanol,C14H39N4O4,187.66,10.57,578.777,Amide
+Glucose,C17H18N1O3,573.81,3.07,626.262,Alcohol
+Cholesterol,C14H16N0O6,490.04,N/A,833.752,Hormone
+Aspirin,C11H39N3O6,192.74,2.87,576.931,Alkaloid
+Glucose,C19H7N5O5,111.08,13.53,674.956,Organic Compound
+Urea,C6H26N5O10,338.32,12.79,480.302,Alcohol
+Caffeine,C2H32N2O7,65.34,N/A,65.317,Carbohydrate
+Glucose,C18H13N2O1,736.8,1.14,881.461,Lipid
+Aspirin,C3H3N0O7,428.87,11.84,597.223,Organic Compound
+Aspirin,C5H6N4O4,684.76,5.36,724.455,Alkaloid
+Adenosine triphosphate,C7H23N5O6,639.08,N/A,581.586,Neurotransmitter
+Ethanol,C8H18N3O2,800.44,2.8,602.863,Neurotransmitter
+Glucose,C10H39N1O7,181.7,13.51,923.444,Lipid
+Aspirin,C10H28N4O0,204.88,N/A,4.934,Organic Compound
+Urea,C13H37N0O10,442.04,5.22,177.465,Neurotransmitter
+Adenosine triphosphate,C1H26N2O10,642.6,10.48,514.347,Lipid
+Adrenaline,C19H34N3O7,715.35,4.94,840.16,Amide
+Adenosine triphosphate,C6H25N3O3,423.17,13.52,68.644,Nucleotide
+Urea,C14H37N3O10,120.78,N/A,687.656,Carbohydrate
+Cholesterol,C16H18N1O9,125.71,12.52,924.936,Organic Compound
+Dopamine,C9H32N3O0,282.58,11.08,596.634,Hormone
+Cholesterol,C1H40N1O0,868.2,3.97,291.195,Alcohol
+Cholesterol,C20H2N4O5,833.18,9.57,42.995,Alkaloid
+Dopamine,C9H18N2O5,624.98,3.86,311.245,Alcohol
+Aspirin,C9H8N3O3,426.71,9.36,238.71,Amide
+Serotonin,C7H19N5O10,988.68,8.07,800.453,Hormone
+Urea,C9H24N2O9,811.86,8.68,546.699,Alcohol
+Cholesterol,C10H32N2O7,651.18,7.49,671.471,Alkaloid
+Serotonin,C18H21N5O0,163.01,11.46,892.439,Nucleotide
+Adenosine triphosphate,C8H22N4O1,629.4,4.48,568.508,Lipid
+Glucose,C4H6N3O4,374.69,1.21,234.88,Amide
+Adrenaline,C15H14N5O3,152.89,6.02,238.532,Organic Compound
+Adrenaline,C5H23N0O8,815.7,8.36,628.846,Organic Compound
+Aspirin,C2H20N4O5,533.42,6.66,662.653,Amide
+Dopamine,C4H14N0O3,881.65,9.48,868.285,Alcohol
+Ethanol,C7H10N3O2,85.83,12.76,748.671,Nucleotide
+Adrenaline,C11H38N0O8,346.29,11.95,350.692,Carbohydrate
+Cholesterol,C10H4N0O9,231.95,N/A,558.467,Nucleotide
+Adrenaline,C14H29N0O0,533.31,6.89,668.127,Lipid
+Ethanol,C5H21N2O0,372.43,7.75,866.68,Lipid
+Urea,C19H32N0O9,778.75,7.45,109.762,Organic Compound
+Aspirin,C4H1N4O7,574.6,5.02,979.956,Organic Compound
+Cholesterol,C10H20N5O1,241.39,11.87,354.363,Amide
+Ethanol,C9H23N2O3,965.1,7.86,511.076,Lipid
+Glucose,C13H36N2O2,636.51,7.14,87.734,Alkaloid
+Dopamine,C16H35N2O10,279.27,N/A,22.387,Organic Compound
+Caffeine,C20H16N4O2,792.94,11.86,474.941,Organic Compound
+Serotonin,C1H4N5O8,599.42,12.84,84.975,Amide
+Serotonin,C5H31N1O4,122.12,9.86,34.418,Carbohydrate
+Dopamine,C19H34N4O1,786.44,7.39,751.223,Amide
+Glucose,C2H9N2O9,678.11,11.69,410.681,Carbohydrate
+Urea,C4H17N4O6,82.8,12.03,96.09,Nucleotide
+Glucose,C11H13N0O7,64.04,13.22,923.352,Neurotransmitter
+Caffeine,C20H2N2O10,393.31,6.9,279.391,Carbohydrate
+Adrenaline,C2H11N1O8,544.13,7.48,632.572,Amide
+Cholesterol,C5H3N2O10,272.32,12.1,662.107,Alcohol
+Dopamine,C4H36N1O8,229.04,9.76,809.901,Nucleotide
+Serotonin,C8H15N0O2,339.19,13.91,819.562,Carbohydrate
+Urea,C9H26N0O1,365.37,4.2,411.99,Organic Compound
+Ethanol,C1H21N5O9,589.17,13.94,920.618,Neurotransmitter
+Cholesterol,C10H40N0O9,177.03,13.57,967.912,Alkaloid
+Adrenaline,C20H36N0O3,800.11,11.99,172.45,Amide
+Cholesterol,C8H22N4O0,890.18,5.36,611.033,Nucleotide
+Aspirin,C15H23N5O2,752.5,5.59,284.851,Organic Compound
+Dopamine,C15H19N0O7,446.74,N/A,706.131,Hormone
+Urea,C12H14N2O7,866.57,2.54,248.136,Carbohydrate
+Cholesterol,C15H35N0O0,998.55,5.86,810.48,Hormone
+Adenosine triphosphate,C17H27N2O10,596.69,N/A,507.297,Alkaloid
+Adenosine triphosphate,C13H35N5O3,73.87,13.97,110.878,Lipid
+Urea,C5H35N3O6,892.66,N/A,784.428,Lipid
+Caffeine,C12H19N3O3,954.7,2.26,845.027,Amide
+Ethanol,C12H31N4O4,399.71,13.78,539.918,Neurotransmitter
+Dopamine,C16H35N1O8,110.5,2.18,621.758,Neurotransmitter
+Glucose,C14H10N2O4,262.55,1.99,633.289,Nucleotide
+Serotonin,C12H24N2O2,226.28,8.89,694.853,Hormone
+Serotonin,C6H3N5O6,811.98,N/A,314.811,Alcohol
+Adrenaline,C9H34N2O7,685.73,N/A,500.671,Hormone
+Serotonin,C2H31N5O9,491.57,N/A,367.667,Alcohol
+Ethanol,C10H39N5O6,466.36,N/A,85.42,Alcohol
+Cholesterol,C20H3N1O3,862.14,6.74,912.637,Organic Compound
+Caffeine,C11H37N5O1,177.48,3.64,530.171,Lipid
+Adrenaline,C19H33N1O3,597.63,N/A,300.25,Hormone
+Urea,C8H12N2O8,282.69,N/A,57.361,Alkaloid
+Adrenaline,C12H14N4O2,519.15,9.72,607.947,Alkaloid
+Urea,C8H8N1O8,362.5,N/A,142.187,Alcohol
+Adrenaline,C13H32N3O7,466.91,9.37,640.469,Neurotransmitter
+Serotonin,C8H5N4O5,882.14,12.42,843.625,Hormone
+Glucose,C16H19N1O2,570.85,8.11,47.593,Carbohydrate
+Serotonin,C10H19N2O10,366.33,10.12,705.685,Nucleotide
+Ethanol,C1H5N0O0,876.93,9.4,701.821,Lipid
+Cholesterol,C11H1N0O10,977.42,13.56,41.49,Lipid
+Ethanol,C20H12N4O2,581.36,7.77,96.482,Alkaloid
+Urea,C14H6N5O3,871.9,1.1,59.92,Organic Compound
+Dopamine,C8H17N4O3,442.85,N/A,712.885,Organic Compound
+Adenosine triphosphate,C20H35N1O9,580.61,2.53,325.716,Alcohol
+Adenosine triphosphate,C1H14N5O1,336.06,11.5,152.855,Organic Compound
+Serotonin,C13H18N2O1,281.42,10.59,840.548,Carbohydrate
+Adenosine triphosphate,C9H3N0O2,781.6,N/A,971.774,Hormone
+Serotonin,C4H21N5O9,771.48,N/A,164.509,Organic Compound
+Aspirin,C10H18N5O6,215.9,2.25,476.269,Organic Compound
+Dopamine,C6H22N1O3,454.63,1.72,808.76,Nucleotide
+Adenosine triphosphate,C15H23N0O2,847.19,4.97,154.593,Amide
+Urea,C19H37N5O1,726.38,10.81,920.364,Carbohydrate
+Urea,C8H28N4O8,62.8,13.56,642.689,Carbohydrate
+Adrenaline,C3H27N0O7,459.74,10.28,906.687,Alkaloid
+Cholesterol,C17H29N4O0,948.94,3.02,921.226,Organic Compound
+Adenosine triphosphate,C6H35N0O9,120.14,4.78,287.281,Neurotransmitter
+Dopamine,C11H27N5O8,629.65,13.67,177.525,Amide
+Glucose,C13H13N1O2,765.05,6.94,728.735,Carbohydrate
+Caffeine,C4H21N0O0,576.53,N/A,131.091,Carbohydrate
+Aspirin,C3H6N1O9,313.57,12.65,149.197,Carbohydrate
+Caffeine,C18H20N3O6,401.01,11.74,970.87,Neurotransmitter
+Cholesterol,C18H2N2O4,464.27,2.47,662.318,Neurotransmitter
+Adenosine triphosphate,C11H6N3O0,721.82,N/A,575.902,Nucleotide
+Dopamine,C16H15N2O2,102.06,4.79,842.617,Alkaloid
+Adenosine triphosphate,C11H4N2O6,484.58,N/A,271.827,Hormone
+Ethanol,C13H8N4O5,304.27,2.9,101.663,Organic Compound
+Cholesterol,C6H12N5O10,703.3,9.24,128.569,Carbohydrate
+Ethanol,C5H27N5O8,237.57,12.37,924.857,Alkaloid
+Caffeine,C7H3N1O9,597.78,12.44,37.877,Hormone
+Cholesterol,C4H13N5O4,727.55,10.23,623.314,Alkaloid
+Adenosine triphosphate,C18H40N1O8,219.74,1.81,349.75,Alcohol
+Dopamine,C1H37N0O4,82.3,8.2,803.775,Amide
+Caffeine,C13H27N3O5,990.18,6.99,507.107,Alcohol
+Dopamine,C14H13N1O0,273.58,1.69,521.858,Lipid
+Caffeine,C10H6N0O6,915.12,11.41,408.817,Organic Compound
+Caffeine,C17H13N0O6,964.94,N/A,544.014,Nucleotide
+Ethanol,C7H28N2O8,73.83,1.92,714.456,Neurotransmitter
+Ethanol,C6H3N3O10,600.79,6.2,948.288,Hormone
+Adrenaline,C9H4N2O4,803.94,13.1,788.244,Hormone
+Adrenaline,C16H10N1O6,552.12,5.17,78.61,Lipid
+Dopamine,C7H13N1O10,841.44,1.96,880.316,Alcohol
+Serotonin,C12H32N5O9,559.4,N/A,779.615,Neurotransmitter
+Adrenaline,C17H9N4O6,624.36,7.15,170.257,Lipid
+Ethanol,C8H31N1O9,160.93,6.16,808.572,Alcohol
+Serotonin,C13H4N5O1,168.89,13.19,488.794,Carbohydrate
+Glucose,C4H38N2O7,875.27,4.71,965.667,Amide
+Dopamine,C4H30N1O4,769.1,N/A,178.666,Lipid
+Caffeine,C18H2N1O4,935.23,9.58,538.436,Nucleotide
+Urea,C15H8N4O2,659.83,12.03,871.107,Lipid
+Urea,C5H33N4O5,372.87,10.68,461.139,Neurotransmitter
+Caffeine,C10H21N3O4,920.74,5.49,125.569,Nucleotide
+Serotonin,C17H32N4O0,810.56,N/A,179.037,Nucleotide
+Glucose,C17H15N0O0,217.71,1.66,474.849,Nucleotide
+Cholesterol,C19H9N3O5,943.67,11.4,259.006,Amide
+Ethanol,C11H22N0O4,848.65,N/A,64.935,Lipid
+Glucose,C16H32N3O10,399.77,1.26,540.636,Amide
+Glucose,C4H16N5O6,702.6,N/A,963.903,Lipid
+Glucose,C18H21N2O3,181.68,3.96,480.556,Neurotransmitter
+Urea,C10H29N0O0,966.76,10.41,251.875,Hormone
+Glucose,C11H3N3O9,984.85,11.48,364.269,Alcohol
+Aspirin,C14H36N4O1,754.02,11.55,455.475,Organic Compound
+Glucose,C18H13N3O7,361.11,11.85,29.156,Alcohol
+Cholesterol,C15H38N1O8,218.6,7.16,767.251,Hormone
+Glucose,C8H17N4O7,827.54,N/A,328.377,Nucleotide
+Adenosine triphosphate,C18H3N1O6,923.98,12.61,689.278,Amide
+Dopamine,C7H34N3O4,474.16,N/A,20.132,Organic Compound
+Urea,C16H10N0O4,614.74,3.58,782.924,Hormone
+Urea,C6H39N4O8,585.28,6.35,244.125,Alkaloid
+Aspirin,C13H39N3O3,922.08,6.13,778.666,Alkaloid
+Ethanol,C8H4N4O3,143.68,13.27,96.667,Amide
+Serotonin,C12H17N5O0,935.72,N/A,74.504,Amide
+Glucose,C13H28N0O10,904.01,N/A,576.856,Lipid
+Ethanol,C19H3N3O6,956.51,8.98,6.141,Alkaloid
+Caffeine,C9H26N0O3,124.87,N/A,231.039,Amide
+Cholesterol,C8H19N0O7,152.66,6.46,763.579,Amide
+Aspirin,C8H39N1O5,678.6,11.25,49.138,Neurotransmitter
+Dopamine,C13H11N2O9,427.41,3.66,333.533,Lipid
+Adrenaline,C12H19N0O4,824.73,N/A,126.949,Hormone
+Adenosine triphosphate,C8H3N2O0,815.21,12.54,87.085,Lipid
+Dopamine,C11H34N3O6,146.84,N/A,799.46,Nucleotide
+Glucose,C17H19N5O7,67.06,8.03,581.076,Organic Compound
+Cholesterol,C12H16N3O7,778.62,12.14,607.678,Amide
+Adenosine triphosphate,C6H19N5O2,86.14,N/A,859.442,Carbohydrate
+Ethanol,C11H39N1O3,66.49,N/A,759.195,Amide
+Aspirin,C10H22N1O6,100.97,9.08,154.483,Lipid
+Serotonin,C14H3N5O1,235.65,N/A,916.439,Amide
+Ethanol,C17H25N5O7,762.28,N/A,137.447,Lipid
+Aspirin,C17H38N5O6,980.32,7.9,131.951,Amide
+Aspirin,C19H17N2O3,264.41,13.21,109.53,Lipid
+Serotonin,C3H28N5O10,262.72,N/A,753.324,Hormone
+Adenosine triphosphate,C2H30N4O6,181.72,1.74,381.579,Hormone
+Caffeine,C13H34N4O1,757.41,5.74,21.181,Lipid
+Adrenaline,C3H20N1O2,160.58,1.78,607.193,Carbohydrate
+Urea,C8H35N1O1,258.54,N/A,827.078,Carbohydrate
+Dopamine,C1H12N5O10,607.2,5.73,374.805,Hormone
+Urea,C8H15N3O1,885.39,8.47,138.915,Nucleotide
+Caffeine,C11H18N3O2,630.65,10.83,369.797,Alkaloid
+Adenosine triphosphate,C11H25N4O9,171.57,1.81,80.493,Nucleotide
+Serotonin,C10H11N0O6,591.35,5.61,2.504,Lipid
+Urea,C20H23N5O8,530.51,11.13,962.014,Amide
+Ethanol,C5H39N1O6,660.11,N/A,431.807,Alcohol
+Adrenaline,C13H16N4O6,678.83,N/A,598.307,Nucleotide
+Dopamine,C3H4N5O8,511.84,5.45,672.6,Nucleotide
+Cholesterol,C8H7N4O0,179.59,9.82,648.558,Hormone
+Adrenaline,C4H21N4O8,861.07,10.72,39.137,Hormone
+Ethanol,C18H27N5O10,253.92,N/A,396.797,Alcohol
+Serotonin,C20H37N4O0,962.6,1.15,994.635,Alkaloid
+Dopamine,C8H34N0O3,521.26,9.55,256.467,Alkaloid
+Aspirin,C11H12N2O3,551.57,1.84,373.173,Hormone
+Adenosine triphosphate,C4H23N0O2,73.18,6.57,777.547,Neurotransmitter
+Urea,C10H26N0O4,321.94,8.05,920.752,Hormone
+Adrenaline,C11H12N3O1,74.4,13.07,436.864,Hormone
+Serotonin,C2H9N2O1,547.26,3.32,629.881,Carbohydrate
+Aspirin,C17H20N1O5,837.07,7.91,533.181,Neurotransmitter
+Ethanol,C18H25N1O5,547.17,N/A,554.492,Nucleotide
+Ethanol,C1H1N0O6,951.26,10.94,104.087,Hormone
+Urea,C15H20N4O0,971.57,7.13,596.073,Carbohydrate
+Glucose,C7H37N2O2,367.55,9.46,470.914,Hormone
+Cholesterol,C11H29N0O9,425.37,2.12,761.179,Alcohol
+Ethanol,C9H20N1O5,850.12,10.24,702.512,Alcohol
+Ethanol,C13H14N5O7,933.47,N/A,384.412,Alkaloid
+Ethanol,C20H40N4O10,583.25,7.24,981.936,Alkaloid
+Caffeine,C4H39N2O1,98.31,2.59,822.479,Amide
+Serotonin,C9H18N5O4,881.59,N/A,790.407,Neurotransmitter
+Serotonin,C8H31N1O4,379.5,10.41,9.357,Neurotransmitter
+Adrenaline,C5H31N0O1,399.76,1.98,163.519,Nucleotide
+Adenosine triphosphate,C11H1N4O10,978.45,2.23,557.864,Organic Compound
+Dopamine,C8H33N1O0,506.75,11.99,242.153,Nucleotide
+Aspirin,C20H8N0O1,178.27,1.15,811.027,Alkaloid
+Adenosine triphosphate,C20H22N1O7,827.28,N/A,779.542,Amide
+Cholesterol,C15H31N4O9,705.13,2.75,729.243,Carbohydrate
+Glucose,C7H26N4O3,838.83,11.83,559.353,Alkaloid
+Serotonin,C19H38N0O3,798.0,6.82,975.215,Organic Compound
+Ethanol,C2H18N3O8,681.26,7.01,506.503,Carbohydrate
+Cholesterol,C15H17N3O3,287.95,1.44,21.192,Hormone
+Adenosine triphosphate,C8H38N5O10,925.14,13.56,825.981,Alcohol
+Urea,C18H33N0O2,415.2,12.23,61.268,Organic Compound
+Adrenaline,C11H26N0O2,526.51,6.85,147.048,Carbohydrate
+Serotonin,C3H12N1O4,985.75,N/A,589.53,Hormone
+Dopamine,C16H37N5O10,205.65,13.93,889.88,Neurotransmitter
+Dopamine,C19H20N2O9,857.33,2.06,285.599,Hormone
+Dopamine,C11H38N2O10,730.82,10.84,475.202,Organic Compound
+Dopamine,C12H8N5O10,130.0,2.6,274.991,Nucleotide
+Dopamine,C1H17N0O6,442.71,1.99,6.328,Alcohol
+Adrenaline,C5H40N5O10,626.2,13.25,196.633,Amide
+Caffeine,C13H18N1O4,235.88,2.77,578.609,Hormone
+Aspirin,C3H35N2O10,141.63,7.19,412.967,Carbohydrate
+Aspirin,C11H1N4O7,821.34,N/A,899.754,Carbohydrate
+Dopamine,C9H10N3O7,444.53,N/A,542.713,Alcohol
+Serotonin,C17H10N2O2,808.44,N/A,423.66,Hormone
+Aspirin,C20H26N3O1,476.91,6.32,997.949,Carbohydrate
+Urea,C9H35N0O7,783.82,6.25,887.428,Amide
+Cholesterol,C15H22N0O9,484.39,10.46,441.437,Hormone
+Adrenaline,C9H23N2O8,672.77,10.84,707.333,Alcohol
+Glucose,C3H32N5O3,914.64,6.5,995.457,Lipid
+Glucose,C16H19N1O2,746.27,5.75,168.36,Hormone
+Ethanol,C3H37N5O1,707.02,N/A,863.816,Alkaloid
+Serotonin,C16H39N1O0,668.02,1.91,795.215,Organic Compound
+Adrenaline,C6H24N5O10,601.62,8.68,587.674,Neurotransmitter
+Adrenaline,C18H13N3O10,526.72,11.93,454.252,Lipid
+Cholesterol,C12H24N5O7,764.83,10.41,117.905,Carbohydrate
+Aspirin,C17H19N3O6,103.81,7.07,924.169,Amide
+Glucose,C19H23N4O4,486.22,6.75,47.924,Hormone
+Urea,C1H12N3O10,543.21,5.77,891.174,Hormone
+Urea,C15H22N3O6,804.85,9.55,184.684,Nucleotide
+Dopamine,C5H8N3O3,764.11,N/A,651.048,Hormone
+Urea,C12H33N0O8,181.98,N/A,218.351,Alkaloid
+Urea,C7H6N5O6,731.8,6.58,921.285,Carbohydrate
+Dopamine,C15H2N1O6,66.96,N/A,741.338,Hormone
+Cholesterol,C4H27N2O4,201.13,9.86,986.608,Nucleotide
+Glucose,C16H25N0O1,986.93,8.06,90.971,Organic Compound
+Ethanol,C18H31N2O4,496.76,11.94,604.936,Organic Compound
+Adenosine triphosphate,C15H22N1O10,530.02,N/A,393.126,Alkaloid
+Adenosine triphosphate,C15H40N2O3,964.95,10.2,281.756,Lipid
+Adrenaline,C12H33N0O7,248.45,12.81,294.331,Lipid
+Adenosine triphosphate,C10H27N0O8,882.5,N/A,774.298,Lipid
+Adrenaline,C9H20N1O6,586.26,9.68,569.691,Neurotransmitter
+Serotonin,C19H38N3O6,630.62,N/A,591.834,Amide
+Dopamine,C6H18N2O4,222.24,7.93,854.104,Carbohydrate
+Aspirin,C19H11N4O2,187.32,10.54,255.823,Neurotransmitter
+Glucose,C15H34N0O3,196.95,13.83,818.153,Alkaloid
+Urea,C6H14N5O5,878.02,N/A,725.551,Alcohol
+Aspirin,C9H18N4O0,864.72,12.28,699.719,Carbohydrate
+Ethanol,C1H23N2O3,691.9,3.32,321.707,Nucleotide
+Urea,C4H38N4O7,561.08,6.22,368.02,Carbohydrate
+Adenosine triphosphate,C19H19N1O1,575.48,8.89,840.099,Organic Compound
+Dopamine,C2H8N3O4,636.57,3.48,588.13,Alkaloid
+Adrenaline,C7H23N1O3,531.51,N/A,994.815,Alcohol
+Urea,C16H20N1O0,857.96,N/A,754.488,Lipid
+Glucose,C19H36N1O10,308.53,5.04,280.916,Neurotransmitter
+Ethanol,C17H34N1O8,203.25,N/A,744.973,Amide
+Dopamine,C4H13N4O10,769.03,7.73,448.436,Alcohol
+Glucose,C16H17N3O8,253.34,11.3,906.502,Alcohol
+Cholesterol,C13H11N4O2,927.13,5.36,34.314,Hormone
+Dopamine,C11H8N4O9,126.78,5.89,705.108,Hormone
+Dopamine,C7H32N1O5,287.47,11.71,916.9,Amide
+Glucose,C19H16N3O0,704.18,10.32,834.518,Alcohol
+Serotonin,C3H10N4O4,405.05,7.23,893.753,Alcohol
+Dopamine,C12H36N2O7,827.5,4.73,725.502,Lipid
+Adenosine triphosphate,C13H18N4O7,568.65,6.33,338.51,Organic Compound
+Ethanol,C11H16N3O4,431.4,12.07,818.332,Neurotransmitter
+Adenosine triphosphate,C16H25N2O1,98.19,11.09,7.451,Lipid
+Ethanol,C18H4N0O7,690.15,N/A,841.025,Alcohol
+Urea,C13H16N0O8,321.49,6.03,786.239,Lipid
+Adrenaline,C7H16N4O2,870.53,4.25,585.161,Alcohol
+Cholesterol,C17H32N4O8,475.82,N/A,179.628,Amide
+Serotonin,C11H9N0O5,806.69,4.36,77.078,Hormone
+Aspirin,C11H5N2O6,604.56,8.03,86.743,Alcohol
+Ethanol,C11H11N1O1,565.27,N/A,489.013,Neurotransmitter
+Ethanol,C16H5N4O4,758.98,N/A,95.685,Alkaloid
+Adenosine triphosphate,C18H6N5O1,866.61,12.89,941.171,Nucleotide
+Adrenaline,C18H22N2O10,91.27,2.3,82.016,Alcohol
+Glucose,C17H26N3O9,718.11,8.02,143.372,Neurotransmitter
+Adrenaline,C12H32N5O8,685.68,2.58,232.656,Alcohol
+Caffeine,C14H38N2O4,421.32,N/A,848.825,Hormone
+Ethanol,C10H12N0O9,835.89,5.75,88.873,Amide
+Cholesterol,C8H28N1O10,271.1,11.92,806.083,Hormone
+Urea,C15H32N1O4,642.83,N/A,835.434,Carbohydrate
+Urea,C11H24N3O1,512.05,9.11,958.724,Hormone
+Cholesterol,C7H39N2O9,872.38,13.36,270.941,Nucleotide
+Cholesterol,C20H2N4O5,421.31,13.76,811.247,Hormone
+Urea,C15H28N3O6,231.37,4.49,375.064,Lipid
+Urea,C10H26N3O8,249.08,4.86,37.401,Hormone
+Ethanol,C17H28N4O5,599.31,9.37,72.202,Alkaloid
+Caffeine,C13H2N2O8,206.96,9.77,297.909,Organic Compound
+Dopamine,C3H24N0O3,830.64,N/A,548.369,Neurotransmitter
+Cholesterol,C18H11N3O7,588.6,9.15,230.472,Carbohydrate
+Dopamine,C12H39N3O6,500.7,7.44,733.082,Organic Compound
+Ethanol,C15H24N4O4,229.33,3.83,27.989,Neurotransmitter
+Aspirin,C16H22N2O1,318.32,1.35,171.267,Alkaloid
+Serotonin,C19H23N3O7,416.82,N/A,39.347,Nucleotide
+Aspirin,C7H40N5O5,241.67,9.39,615.045,Lipid
+Urea,C18H8N4O9,335.95,N/A,688.669,Neurotransmitter
+Ethanol,C13H31N2O4,724.99,12.35,575.777,Hormone
+Serotonin,C9H3N5O10,570.07,N/A,150.085,Alkaloid
+Adenosine triphosphate,C20H3N1O6,281.25,13.66,70.463,Alkaloid
+Glucose,C5H39N1O0,990.83,12.14,294.843,Carbohydrate
+Glucose,C13H33N4O1,332.5,13.07,607.427,Amide
+Caffeine,C13H39N4O10,577.61,13.77,733.252,Lipid
+Ethanol,C9H32N2O9,642.95,11.35,812.493,Amide
+Dopamine,C19H37N2O10,101.71,7.19,45.137,Nucleotide
+Adrenaline,C3H29N2O9,948.72,7.02,15.159,Alkaloid
+Adrenaline,C5H26N0O4,881.99,4.5,940.619,Organic Compound
+Caffeine,C15H38N3O6,451.6,N/A,348.337,Lipid
+Serotonin,C13H31N1O1,964.92,3.9,774.444,Alcohol
+Dopamine,C18H21N5O6,94.96,12.49,577.09,Amide
+Cholesterol,C18H38N0O2,642.25,2.52,210.397,Organic Compound
+Aspirin,C18H18N5O4,704.68,8.53,524.472,Hormone
+Caffeine,C6H1N2O2,896.79,N/A,291.56,Amide
+Serotonin,C7H38N5O5,178.34,N/A,319.835,Hormone
+Dopamine,C1H28N1O4,707.71,2.06,391.992,Hormone
+Adenosine triphosphate,C11H23N3O8,582.89,1.98,273.765,Hormone
+Adenosine triphosphate,C5H8N2O7,692.22,13.36,117.636,Amide
+Serotonin,C15H26N4O0,255.38,12.02,986.856,Alcohol
+Urea,C8H4N2O7,262.57,12.88,529.978,Nucleotide
+Ethanol,C3H12N4O8,554.62,N/A,963.701,Alkaloid
+Dopamine,C6H39N3O0,178.09,2.96,660.581,Alcohol
+Aspirin,C15H11N2O8,877.97,9.31,496.585,Carbohydrate
+Serotonin,C15H36N4O5,251.41,7.6,124.131,Carbohydrate
+Dopamine,C4H40N0O3,608.82,2.05,740.339,Organic Compound
+Ethanol,C18H25N2O6,197.6,3.6,231.159,Alcohol
+Caffeine,C6H13N4O7,841.48,N/A,47.378,Alkaloid
+Adenosine triphosphate,C20H26N2O10,227.81,1.35,521.143,Hormone
+Urea,C3H14N0O6,635.79,11.7,319.751,Lipid
+Urea,C13H32N5O0,328.93,N/A,763.259,Lipid
+Adrenaline,C17H18N0O3,798.62,13.44,216.053,Hormone
+Adenosine triphosphate,C3H31N5O5,472.15,4.4,423.562,Alcohol
+Serotonin,C7H29N3O9,874.67,10.96,437.537,Carbohydrate
+Serotonin,C20H14N2O1,956.25,4.26,740.407,Organic Compound
+Adenosine triphosphate,C20H11N4O7,492.44,N/A,700.164,Nucleotide
+Ethanol,C11H32N3O10,859.01,7.4,124.423,Nucleotide
+Cholesterol,C17H17N4O4,536.46,10.25,177.848,Hormone
+Aspirin,C4H10N3O7,445.47,13.8,917.128,Hormone
+Serotonin,C12H28N2O8,289.66,N/A,93.394,Nucleotide
+Glucose,C4H32N4O1,779.03,1.9,596.613,Amide
+Ethanol,C5H2N1O4,422.23,6.18,369.84,Alkaloid
+Aspirin,C3H19N0O6,89.32,3.32,758.871,Neurotransmitter
+Adrenaline,C6H27N0O1,452.06,N/A,583.534,Carbohydrate
+Glucose,C17H5N4O10,858.57,4.78,104.066,Hormone
+Adenosine triphosphate,C8H21N4O8,198.66,9.95,237.24,Organic Compound
+Glucose,C3H12N4O3,404.06,5.96,811.917,Alkaloid
+Caffeine,C17H29N2O9,822.59,3.31,668.184,Alkaloid
+Cholesterol,C17H12N1O1,187.35,11.45,146.026,Hormone
+Urea,C4H26N3O5,343.51,7.97,792.886,Alkaloid
+Serotonin,C11H26N3O1,296.58,5.83,720.02,Alcohol
+Ethanol,C5H30N2O6,185.56,N/A,122.796,Alkaloid
+Adenosine triphosphate,C10H11N5O6,816.73,5.37,823.432,Hormone
+Ethanol,C11H1N2O1,601.26,7.05,690.523,Neurotransmitter
+Ethanol,C11H34N4O5,131.37,11.05,5.319,Alcohol
+Adenosine triphosphate,C14H21N3O5,935.66,8.98,333.11,Carbohydrate
+Dopamine,C20H7N2O10,398.79,1.28,135.728,Carbohydrate
+Serotonin,C1H29N3O8,396.48,13.22,489.824,Alkaloid
+Aspirin,C10H4N5O10,710.11,1.93,431.535,Neurotransmitter
+Dopamine,C9H30N3O8,514.41,5.17,501.806,Carbohydrate
+Ethanol,C3H33N5O10,586.06,8.34,880.632,Hormone
+Cholesterol,C8H2N1O8,494.49,9.97,421.012,Alcohol
+Dopamine,C18H25N3O4,197.8,11.11,134.325,Amide
+Adenosine triphosphate,C18H10N4O7,832.33,4.43,803.14,Alkaloid
+Glucose,C4H2N0O7,134.33,8.69,87.089,Nucleotide
+Cholesterol,C18H13N0O6,694.32,N/A,639.172,Alkaloid
+Adrenaline,C20H2N0O9,483.89,11.28,472.998,Lipid
+Dopamine,C8H26N1O3,919.67,7.58,349.749,Lipid
+Cholesterol,C16H21N5O1,608.78,N/A,732.067,Neurotransmitter
+Dopamine,C10H17N0O4,977.61,3.16,492.921,Amide
+Urea,C20H27N2O7,607.42,6.53,427.366,Lipid
+Cholesterol,C19H24N0O10,885.47,3.24,374.411,Neurotransmitter
+Dopamine,C10H3N0O3,112.49,9.32,198.365,Neurotransmitter
+Ethanol,C1H27N4O10,763.21,N/A,840.114,Alkaloid
+Dopamine,C8H11N1O0,541.11,7.23,687.471,Alkaloid
+Dopamine,C14H39N5O10,50.32,6.99,309.334,Hormone
+Caffeine,C3H35N3O3,160.19,11.38,673.883,Organic Compound
+Ethanol,C8H35N1O7,768.74,4.89,153.74,Carbohydrate
+Serotonin,C20H7N3O9,890.96,8.53,493.115,Carbohydrate
+Aspirin,C10H25N1O5,201.4,13.92,499.098,Alkaloid
+Cholesterol,C3H29N4O0,356.12,13.45,434.026,Carbohydrate
+Adrenaline,C2H6N4O3,785.21,13.5,230.039,Nucleotide
+Serotonin,C17H14N5O3,609.86,5.48,126.96,Carbohydrate
+Adenosine triphosphate,C17H6N3O7,218.65,8.18,368.682,Lipid
+Urea,C14H12N1O2,249.88,2.46,653.063,Organic Compound
+Glucose,C8H9N0O0,721.37,4.46,739.781,Nucleotide
+Adrenaline,C11H6N3O1,850.34,10.58,511.944,Nucleotide
+Urea,C6H34N1O10,191.4,N/A,943.214,Amide
+Ethanol,C18H28N1O6,483.92,10.43,408.849,Lipid
+Dopamine,C9H33N4O5,374.9,7.86,833.837,Amide
+Adrenaline,C9H40N5O7,599.75,4.39,870.853,Neurotransmitter
+Dopamine,C19H12N2O1,213.47,1.28,882.528,Alkaloid
+Urea,C8H1N5O9,414.36,12.53,185.697,Nucleotide
+Ethanol,C15H4N2O8,966.14,N/A,231.68,Alcohol
+Dopamine,C11H34N3O9,443.12,10.3,311.35,Nucleotide
+Adenosine triphosphate,C19H39N0O7,974.54,8.84,665.045,Alcohol
+Dopamine,C11H12N0O2,959.69,11.6,610.826,Carbohydrate
+Aspirin,C16H31N0O5,590.32,12.98,95.397,Alkaloid
+Serotonin,C15H26N5O6,287.83,2.17,412.445,Organic Compound
+Cholesterol,C7H11N3O10,129.09,3.1,516.928,Alkaloid
+Cholesterol,C12H4N2O0,463.33,N/A,387.284,Lipid
+Ethanol,C16H21N3O2,556.24,12.95,222.325,Neurotransmitter
+Cholesterol,C16H11N4O6,60.56,7.05,581.004,Carbohydrate
+Cholesterol,C19H39N2O5,998.63,2.76,96.538,Organic Compound
+Adrenaline,C1H34N4O6,611.43,8.53,801.248,Neurotransmitter
+Adrenaline,C16H31N1O2,339.95,N/A,816.929,Amide
+Serotonin,C5H2N4O3,496.39,N/A,32.642,Nucleotide
+Cholesterol,C4H38N2O2,84.18,5.64,404.032,Amide
+Ethanol,C4H1N5O1,772.01,4.58,754.699,Organic Compound
+Adenosine triphosphate,C8H29N1O9,892.51,12.93,389.06,Alkaloid
+Glucose,C11H37N3O10,941.55,13.67,396.62,Alcohol
+Cholesterol,C15H10N3O5,679.84,5.42,179.144,Neurotransmitter
+Adenosine triphosphate,C17H10N1O10,199.42,7.67,764.035,Alkaloid
+Adenosine triphosphate,C16H14N4O3,97.31,5.61,755.246,Nucleotide
+Adenosine triphosphate,C14H11N0O8,196.64,4.16,140.752,Amide
+Glucose,C20H2N3O8,325.35,2.23,654.094,Nucleotide
+Aspirin,C14H13N3O7,354.17,1.02,769.368,Alkaloid
+Adrenaline,C5H17N0O4,423.24,10.2,724.503,Neurotransmitter
+Adenosine triphosphate,C8H33N2O9,889.28,13.0,263.935,Amide
+Glucose,C18H35N5O10,236.24,5.38,380.872,Nucleotide
+Adenosine triphosphate,C8H25N2O3,971.08,12.0,805.849,Amide
+Caffeine,C5H37N2O9,493.67,N/A,159.469,Alcohol
+Caffeine,C12H16N2O9,639.5,13.96,288.398,Alcohol
+Glucose,C5H1N0O6,866.35,6.13,945.056,Lipid
+Ethanol,C7H7N3O2,657.22,11.2,638.369,Carbohydrate
+Serotonin,C11H12N5O3,493.06,4.37,854.803,Organic Compound
+Ethanol,C4H5N1O1,680.9,13.24,89.93,Carbohydrate
+Adenosine triphosphate,C7H6N3O1,762.08,8.83,518.037,Amide
+Adenosine triphosphate,C1H31N0O6,454.73,7.3,353.808,Nucleotide
+Urea,C8H40N1O3,794.45,11.49,102.993,Neurotransmitter
+Adrenaline,C5H23N3O10,598.91,N/A,810.478,Neurotransmitter
+Adenosine triphosphate,C15H18N3O8,101.98,7.4,503.612,Nucleotide
+Serotonin,C2H2N1O0,978.88,4.81,217.646,Neurotransmitter
+Glucose,C14H28N2O5,343.89,2.72,237.167,Nucleotide
+Caffeine,C1H1N1O5,509.08,9.42,855.136,Nucleotide
+Dopamine,C17H7N0O8,885.18,1.65,974.319,Nucleotide
+Cholesterol,C11H39N5O5,200.45,4.39,558.539,Hormone
+Dopamine,C1H19N0O9,957.8,11.18,653.327,Hormone
+Ethanol,C11H19N0O1,395.12,13.25,812.286,Amide
+Serotonin,C16H17N0O6,79.38,8.75,156.771,Organic Compound

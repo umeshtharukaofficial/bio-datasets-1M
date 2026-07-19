@@ -10,13 +10,13 @@ The collection is automatically expanded every **5 minutes** by an autonomous bo
 ## 🤗 Also on HuggingFace
 
 Mirror updated every 5 minutes:
-https://huggingface.co/datasets/umeshtharukaofficial/bio-datasets-1M
+https://huggingface.co/datasets/umeshtharukamalaviarachchi/bio-datasets-1M
 
 Load a random dataset in 3 lines:
 ```python
 from huggingface_hub import hf_hub_download
 import pandas as pd
-df = pd.read_csv(hf_hub_download("umeshtharukaofficial/bio-datasets-1M",
+df = pd.read_csv(hf_hub_download("umeshtharukamalaviarachchi/bio-datasets-1M",
                                  "datasets/genomics/genomics_000001_variant.csv",
                                  repo_type="dataset"))
 ```

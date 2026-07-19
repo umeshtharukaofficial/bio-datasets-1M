@@ -34,7 +34,7 @@ from huggingface_hub import hf_hub_download
 import pandas as pd
 
 path = hf_hub_download(
-    repo_id="umeshtharukaofficial/bio-datasets-1M",
+    repo_id="umeshtharukamalaviarachchi/bio-datasets-1M",
     filename="datasets/genomics/genomics_000123_variant.csv",
     repo_type="dataset",
 )

@@ -33,7 +33,17 @@ try:
         print("No changes to commit.")
         sys.exit(0)
         
-    msg = f"auto: +{batch_size} datasets @ {datetime.datetime.now(datetime.timezone.utc).isoformat().replace('+00:00', '')}Z"
+    # Get current total count from manifest/index.csv
+    total_count = 0
+    manifest_path = "manifest/index.csv"
+    if os.path.exists(manifest_path):
+        try:
+            with open(manifest_path, 'r') as f:
+                total_count = max(0, sum(1 for _ in f) - 1)
+        except Exception:
+            pass
+
+    msg = f"chore(data): auto-generate {batch_size} synthetic biology datasets (total: {total_count})"
     subprocess.run(["git", "commit", "-m", msg], check=True)
     print("Committed successfully. Attempting to push...")
     

@@ -34,3 +34,9 @@ jobs:
           TOTAL=$(($(wc -l < manifest/index.csv) - 1))
           git commit -m "chore(data): auto-generate 200 synthetic biology datasets (total: $TOTAL)" || echo "no changes"
           git push
+
+      - name: Sync to HuggingFace
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          HF_USERNAME: ${{ secrets.HF_USERNAME }}
+        run: python scripts/hf_sync.py

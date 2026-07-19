@@ -7,6 +7,20 @@ Welcome to **Bio-Datasets-1M**, an open, growing public repository containing **
 
 The collection is automatically expanded every **5 minutes** by an autonomous bot, with a goal of reaching one million unique dataset files across various fields of biological sciences.
 
+## 🤗 Also on HuggingFace
+
+Mirror updated every 5 minutes:
+https://huggingface.co/datasets/umeshtharukaofficial/bio-datasets-1M
+
+Load a random dataset in 3 lines:
+```python
+from huggingface_hub import hf_hub_download
+import pandas as pd
+df = pd.read_csv(hf_hub_download("umeshtharukaofficial/bio-datasets-1M",
+                                 "datasets/genomics/genomics_000001_variant.csv",
+                                 repo_type="dataset"))
+```
+
 ---
 
 ## 📂 Category Folder Guide

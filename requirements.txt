@@ -5,3 +5,4 @@ faker
 requests
 python-dotenv
 gitpython
+huggingface_hub>=0.24.0

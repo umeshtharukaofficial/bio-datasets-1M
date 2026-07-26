@@ -1,0 +1,983 @@
+strain_id,genus,species,gram_stain,oxygen_req,colony_diameter_mm
+STR_291,Pseudomonas,shoulder,Positive,Anaerobic,4.66
+STR_539,Clostridium,president,Positive,Anaerobic,8.13
+STR_985,Pseudomonas,explain,Positive,Aerobic,7.09
+STR_537,Bacillus,concern,Negative,Microaerophilic,5.57
+STR_597,Streptococcus,sister,Negative,Facultative Anaerobe,3.64
+STR_256,Pseudomonas,plant,Positive,Facultative Anaerobe,7.2
+STR_936,Pseudomonas,enough,Negative,Anaerobic,8.18
+STR_723,Lactobacillus,all,Positive,Aerobic,2.45
+STR_350,Streptococcus,western,Negative,Microaerophilic,4.72
+STR_398,Clostridium,concern,Negative,Microaerophilic,1.87
+STR_510,Lactobacillus,operation,Positive,Microaerophilic,9.45
+STR_815,Pseudomonas,many,Negative,Aerobic,8.95
+STR_146,Clostridium,parent,Negative,Anaerobic,7.18
+STR_287,Staphylococcus,term,Negative,Aerobic,8.27
+STR_634,Clostridium,price,Negative,Facultative Anaerobe,8.78
+STR_932,Streptococcus,lead,Negative,Microaerophilic,1.47
+STR_581,Clostridium,wonder,Positive,Facultative Anaerobe,9.64
+STR_665,Staphylococcus,dream,Positive,Microaerophilic,9.59
+STR_907,Bacillus,sing,Positive,Aerobic,6.1
+STR_644,Pseudomonas,movie,Positive,Facultative Anaerobe,6.31
+STR_307,Streptococcus,stand,Positive,Facultative Anaerobe,2.03
+STR_460,Staphylococcus,teach,Positive,Anaerobic,2.84
+STR_572,Streptococcus,pretty,Negative,Aerobic,9.11
+STR_637,Lactobacillus,player,Negative,Anaerobic,8.82
+STR_451,Lactobacillus,tax,Positive,Microaerophilic,3.49
+STR_743,Pseudomonas,today,Negative,Microaerophilic,7.46
+STR_210,Streptococcus,during,Positive,Anaerobic,9.9
+STR_235,Staphylococcus,play,Negative,Facultative Anaerobe,5.38
+STR_351,Lactobacillus,stay,Positive,Aerobic,3.36
+STR_610,Lactobacillus,fire,Negative,Microaerophilic,0.86
+STR_610,Streptococcus,pass,Positive,Microaerophilic,1.38
+STR_818,Staphylococcus,reason,Positive,Facultative Anaerobe,4.24
+STR_938,Clostridium,point,Negative,Anaerobic,6.13
+STR_217,Clostridium,skill,Positive,Facultative Anaerobe,3.69
+STR_762,Clostridium,figure,Positive,Facultative Anaerobe,8.5
+STR_432,Bacillus,establish,Positive,Microaerophilic,6.49
+STR_478,Pseudomonas,conference,Positive,Aerobic,4.15
+STR_688,Pseudomonas,close,Positive,Anaerobic,2.12
+STR_860,Streptococcus,hear,Positive,Facultative Anaerobe,2.37
+STR_967,Bacillus,TV,Negative,Aerobic,7.21
+STR_507,Streptococcus,difficult,Negative,Aerobic,3.42
+STR_615,Clostridium,cold,Negative,Microaerophilic,6.98
+STR_770,Pseudomonas,low,Negative,Anaerobic,2.25
+STR_573,Lactobacillus,suddenly,Negative,Microaerophilic,3.35
+STR_367,Streptococcus,glass,Negative,Facultative Anaerobe,7.29
+STR_400,Pseudomonas,glass,Positive,Facultative Anaerobe,6.87
+STR_797,Pseudomonas,wife,Negative,Anaerobic,9.56
+STR_948,Clostridium,magazine,Negative,Anaerobic,6.2
+STR_672,Bacillus,assume,Negative,Microaerophilic,2.25
+STR_325,Bacillus,message,Positive,Microaerophilic,0.6
+STR_503,Pseudomonas,let,Negative,Facultative Anaerobe,7.22
+STR_162,Pseudomonas,available,Positive,Facultative Anaerobe,1.12
+STR_269,Streptococcus,money,Negative,Facultative Anaerobe,2.52
+STR_623,Staphylococcus,human,Positive,Microaerophilic,5.64
+STR_777,Bacillus,recent,Positive,Aerobic,6.97
+STR_766,Lactobacillus,head,Positive,Anaerobic,2.4
+STR_611,Lactobacillus,address,Positive,Anaerobic,4.19
+STR_237,Staphylococcus,professor,Negative,Microaerophilic,1.13
+STR_243,Streptococcus,medical,Negative,Aerobic,9.02
+STR_622,Pseudomonas,significant,Positive,Facultative Anaerobe,0.59
+STR_312,Bacillus,chair,Positive,Aerobic,7.48
+STR_143,Bacillus,score,Positive,Aerobic,6.67
+STR_823,Staphylococcus,simple,Positive,Facultative Anaerobe,9.72
+STR_658,Staphylococcus,young,Negative,Anaerobic,1.38
+STR_770,Bacillus,need,Positive,Facultative Anaerobe,3.91
+STR_722,Bacillus,tough,Positive,Microaerophilic,8.15
+STR_102,Staphylococcus,paper,Positive,Facultative Anaerobe,2.18
+STR_922,Bacillus,girl,Positive,Anaerobic,2.74
+STR_240,Pseudomonas,table,Positive,Facultative Anaerobe,6.96
+STR_423,Streptococcus,step,Positive,Aerobic,9.02
+STR_160,Staphylococcus,end,Negative,Microaerophilic,1.75
+STR_102,Streptococcus,hope,Positive,Aerobic,2.93
+STR_266,Streptococcus,be,Positive,Anaerobic,3.28
+STR_693,Lactobacillus,sort,Negative,Microaerophilic,8.37
+STR_491,Streptococcus,try,Negative,Anaerobic,3.07
+STR_488,Staphylococcus,difficult,Negative,Microaerophilic,6.99
+STR_521,Lactobacillus,move,Positive,Anaerobic,7.03
+STR_498,Lactobacillus,within,Positive,Microaerophilic,6.62
+STR_115,Bacillus,bit,Negative,Anaerobic,3.59
+STR_894,Streptococcus,sport,Positive,Facultative Anaerobe,3.07
+STR_131,Pseudomonas,participant,Positive,Anaerobic,6.19
+STR_361,Clostridium,address,Negative,Anaerobic,2.49
+STR_755,Staphylococcus,firm,Negative,Aerobic,5.27
+STR_317,Staphylococcus,though,Negative,Microaerophilic,8.53
+STR_968,Lactobacillus,student,Positive,Anaerobic,8.48
+STR_129,Staphylococcus,car,Positive,Microaerophilic,3.38
+STR_685,Bacillus,peace,Positive,Aerobic,7.57
+STR_879,Clostridium,spend,Positive,Anaerobic,2.73
+STR_917,Pseudomonas,daughter,Negative,Microaerophilic,6.81
+STR_129,Lactobacillus,from,Positive,Facultative Anaerobe,7.8
+STR_946,Staphylococcus,bill,Negative,Microaerophilic,3.88
+STR_103,Lactobacillus,college,Negative,Microaerophilic,7.34
+STR_966,Staphylococcus,in,Negative,Microaerophilic,4.96
+STR_328,Streptococcus,level,Negative,Anaerobic,7.34
+STR_248,Bacillus,performance,Negative,Microaerophilic,8.0
+STR_336,Clostridium,street,Negative,Aerobic,8.12
+STR_870,Clostridium,oil,Positive,Anaerobic,1.55
+STR_468,Streptococcus,usually,Positive,Aerobic,6.25
+STR_638,Staphylococcus,address,Negative,Aerobic,3.68
+STR_677,Bacillus,law,Negative,Microaerophilic,5.5
+STR_853,Clostridium,well,Positive,Facultative Anaerobe,7.27
+STR_731,Pseudomonas,everything,Positive,Aerobic,6.2
+STR_802,Staphylococcus,generation,Negative,Facultative Anaerobe,6.22
+STR_501,Pseudomonas,government,Positive,Anaerobic,2.44
+STR_678,Bacillus,describe,Positive,Microaerophilic,3.27
+STR_943,Bacillus,arm,Positive,Facultative Anaerobe,2.35
+STR_686,Staphylococcus,together,Positive,Aerobic,3.22
+STR_339,Bacillus,part,Positive,Aerobic,3.06
+STR_583,Clostridium,rise,Negative,Facultative Anaerobe,4.55
+STR_446,Staphylococcus,property,Positive,Anaerobic,8.04
+STR_401,Staphylococcus,father,Positive,Anaerobic,9.26
+STR_428,Streptococcus,early,Positive,Microaerophilic,3.31
+STR_618,Staphylococcus,peace,Negative,Anaerobic,0.79
+STR_215,Lactobacillus,close,Positive,Microaerophilic,5.74
+STR_944,Lactobacillus,case,Positive,Anaerobic,6.18
+STR_343,Staphylococcus,might,Positive,Aerobic,7.79
+STR_196,Pseudomonas,development,Positive,Microaerophilic,9.6
+STR_224,Staphylococcus,listen,Negative,Microaerophilic,9.46
+STR_931,Lactobacillus,institution,Positive,Anaerobic,5.57
+STR_955,Bacillus,collection,Positive,Microaerophilic,3.55
+STR_387,Pseudomonas,list,Positive,Aerobic,3.06
+STR_617,Bacillus,thus,Negative,Facultative Anaerobe,9.99
+STR_177,Pseudomonas,medical,Negative,Aerobic,2.96
+STR_431,Bacillus,low,Positive,Facultative Anaerobe,1.56
+STR_986,Clostridium,physical,Positive,Anaerobic,6.16
+STR_779,Staphylococcus,end,Positive,Aerobic,4.4
+STR_791,Bacillus,indicate,Positive,Aerobic,5.71
+STR_498,Lactobacillus,third,Positive,Facultative Anaerobe,9.24
+STR_981,Streptococcus,add,Negative,Aerobic,5.7
+STR_476,Pseudomonas,final,Negative,Aerobic,9.74
+STR_768,Streptococcus,space,Negative,Facultative Anaerobe,1.89
+STR_994,Streptococcus,involve,Negative,Microaerophilic,4.94
+STR_399,Lactobacillus,seek,Negative,Microaerophilic,7.33
+STR_351,Pseudomonas,safe,Positive,Aerobic,8.11
+STR_189,Clostridium,possible,Negative,Aerobic,2.94
+STR_694,Staphylococcus,free,Negative,Anaerobic,2.74
+STR_471,Pseudomonas,tonight,Positive,Microaerophilic,0.65
+STR_587,Streptococcus,weight,Positive,Microaerophilic,8.72
+STR_263,Clostridium,night,Positive,Anaerobic,1.28
+STR_822,Bacillus,might,Positive,Anaerobic,3.8
+STR_145,Pseudomonas,traditional,Positive,Microaerophilic,1.11
+STR_488,Staphylococcus,community,Negative,Anaerobic,6.26
+STR_547,Bacillus,control,Negative,Aerobic,9.5
+STR_606,Pseudomonas,work,Positive,Microaerophilic,4.12
+STR_337,Pseudomonas,us,Positive,Microaerophilic,6.35
+STR_839,Staphylococcus,expect,Positive,Anaerobic,1.9
+STR_403,Staphylococcus,treatment,Negative,Anaerobic,6.92
+STR_869,Streptococcus,heart,Negative,Facultative Anaerobe,8.22
+STR_254,Lactobacillus,use,Positive,Anaerobic,9.41
+STR_469,Clostridium,doctor,Positive,Aerobic,7.77
+STR_290,Lactobacillus,crime,Negative,Microaerophilic,1.86
+STR_797,Lactobacillus,short,Negative,Anaerobic,5.39
+STR_520,Staphylococcus,begin,Negative,Facultative Anaerobe,3.58
+STR_457,Bacillus,couple,Positive,Anaerobic,1.7
+STR_323,Bacillus,and,Positive,Microaerophilic,9.09
+STR_515,Streptococcus,feel,Positive,Aerobic,2.01
+STR_265,Streptococcus,parent,Negative,Microaerophilic,8.22
+STR_997,Staphylococcus,particularly,Negative,Facultative Anaerobe,1.11
+STR_712,Clostridium,book,Negative,Anaerobic,1.46
+STR_732,Lactobacillus,camera,Positive,Microaerophilic,9.88
+STR_680,Clostridium,discuss,Positive,Microaerophilic,1.55
+STR_628,Lactobacillus,read,Negative,Anaerobic,5.1
+STR_220,Lactobacillus,step,Positive,Microaerophilic,2.01
+STR_751,Streptococcus,finally,Negative,Facultative Anaerobe,8.99
+STR_579,Bacillus,thing,Positive,Anaerobic,3.95
+STR_716,Staphylococcus,old,Negative,Microaerophilic,1.84
+STR_921,Pseudomonas,will,Positive,Aerobic,2.26
+STR_623,Lactobacillus,loss,Negative,Aerobic,7.01
+STR_890,Streptococcus,fine,Negative,Aerobic,3.39
+STR_132,Bacillus,player,Negative,Facultative Anaerobe,9.96
+STR_283,Clostridium,film,Negative,Facultative Anaerobe,1.61
+STR_104,Staphylococcus,support,Positive,Anaerobic,5.6
+STR_514,Pseudomonas,present,Negative,Microaerophilic,1.72
+STR_722,Bacillus,option,Negative,Anaerobic,2.11
+STR_456,Streptococcus,me,Positive,Aerobic,9.55
+STR_137,Staphylococcus,maybe,Positive,Microaerophilic,3.77
+STR_320,Bacillus,song,Negative,Facultative Anaerobe,4.31
+STR_416,Lactobacillus,us,Negative,Aerobic,3.84
+STR_452,Lactobacillus,born,Negative,Facultative Anaerobe,8.96
+STR_353,Staphylococcus,show,Negative,Anaerobic,6.06
+STR_905,Clostridium,include,Negative,Facultative Anaerobe,5.63
+STR_581,Lactobacillus,small,Positive,Aerobic,8.25
+STR_130,Clostridium,meet,Negative,Aerobic,7.71
+STR_313,Staphylococcus,strategy,Negative,Facultative Anaerobe,4.53
+STR_377,Bacillus,nation,Negative,Facultative Anaerobe,0.72
+STR_417,Bacillus,standard,Negative,Facultative Anaerobe,2.77
+STR_273,Pseudomonas,explain,Negative,Microaerophilic,0.97
+STR_609,Lactobacillus,across,Positive,Facultative Anaerobe,7.39
+STR_140,Staphylococcus,might,Positive,Microaerophilic,1.28
+STR_745,Clostridium,former,Negative,Microaerophilic,2.95
+STR_892,Staphylococcus,baby,Positive,Anaerobic,2.24
+STR_100,Staphylococcus,morning,Negative,Aerobic,2.97
+STR_979,Pseudomonas,wall,Negative,Facultative Anaerobe,5.35
+STR_560,Streptococcus,police,Negative,Aerobic,2.01
+STR_287,Bacillus,peace,Negative,Aerobic,7.57
+STR_488,Clostridium,middle,Positive,Facultative Anaerobe,9.2
+STR_823,Pseudomonas,gas,Negative,Aerobic,5.32
+STR_411,Staphylococcus,pressure,Positive,Facultative Anaerobe,7.38
+STR_208,Staphylococcus,while,Positive,Microaerophilic,2.46
+STR_950,Streptococcus,wind,Negative,Facultative Anaerobe,8.12
+STR_648,Pseudomonas,must,Positive,Microaerophilic,7.31
+STR_770,Bacillus,investment,Negative,Anaerobic,1.52
+STR_225,Bacillus,side,Negative,Aerobic,9.24
+STR_498,Pseudomonas,service,Positive,Microaerophilic,1.85
+STR_864,Lactobacillus,white,Negative,Facultative Anaerobe,8.43
+STR_874,Streptococcus,national,Negative,Aerobic,1.48
+STR_897,Clostridium,better,Negative,Anaerobic,2.14
+STR_482,Pseudomonas,small,Positive,Anaerobic,1.75
+STR_524,Lactobacillus,news,Positive,Anaerobic,1.32
+STR_817,Bacillus,education,Positive,Facultative Anaerobe,1.24
+STR_565,Pseudomonas,spring,Negative,Anaerobic,3.06
+STR_896,Pseudomonas,civil,Positive,Facultative Anaerobe,7.68
+STR_741,Bacillus,more,Positive,Aerobic,4.41
+STR_202,Staphylococcus,blue,Negative,Anaerobic,6.47
+STR_636,Lactobacillus,former,Positive,Facultative Anaerobe,6.88
+STR_432,Bacillus,store,Positive,Microaerophilic,8.62
+STR_678,Staphylococcus,book,Positive,Facultative Anaerobe,7.91
+STR_855,Streptococcus,task,Positive,Aerobic,4.99
+STR_594,Streptococcus,save,Negative,Microaerophilic,4.27
+STR_272,Bacillus,model,Negative,Facultative Anaerobe,7.56
+STR_232,Clostridium,pretty,Negative,Facultative Anaerobe,8.35
+STR_545,Staphylococcus,require,Positive,Microaerophilic,3.6
+STR_509,Clostridium,also,Positive,Facultative Anaerobe,8.91
+STR_243,Clostridium,peace,Negative,Aerobic,1.9
+STR_794,Streptococcus,woman,Positive,Microaerophilic,8.17
+STR_409,Lactobacillus,green,Negative,Facultative Anaerobe,1.19
+STR_932,Bacillus,before,Positive,Anaerobic,4.15
+STR_265,Clostridium,agency,Positive,Facultative Anaerobe,2.86
+STR_110,Bacillus,building,Positive,Aerobic,3.7
+STR_728,Staphylococcus,thought,Negative,Anaerobic,3.3
+STR_340,Staphylococcus,deal,Negative,Facultative Anaerobe,5.67
+STR_357,Pseudomonas,to,Negative,Microaerophilic,1.58
+STR_557,Pseudomonas,civil,Positive,Aerobic,7.62
+STR_684,Bacillus,play,Negative,Facultative Anaerobe,5.13
+STR_852,Lactobacillus,nor,Positive,Anaerobic,5.64
+STR_940,Streptococcus,head,Negative,Aerobic,8.28
+STR_603,Staphylococcus,imagine,Negative,Anaerobic,7.23
+STR_570,Streptococcus,present,Negative,Aerobic,9.67
+STR_996,Clostridium,nice,Positive,Anaerobic,9.52
+STR_548,Bacillus,small,Negative,Aerobic,3.39
+STR_335,Streptococcus,baby,Positive,Facultative Anaerobe,5.5
+STR_802,Staphylococcus,brother,Negative,Aerobic,5.29
+STR_896,Clostridium,opportunity,Negative,Microaerophilic,7.02
+STR_129,Bacillus,need,Negative,Facultative Anaerobe,0.96
+STR_931,Streptococcus,their,Positive,Facultative Anaerobe,2.75
+STR_721,Clostridium,at,Positive,Anaerobic,5.25
+STR_562,Lactobacillus,project,Negative,Facultative Anaerobe,9.29
+STR_831,Staphylococcus,there,Positive,Aerobic,2.86
+STR_242,Staphylococcus,number,Negative,Facultative Anaerobe,6.28
+STR_922,Clostridium,either,Positive,Anaerobic,7.97
+STR_883,Pseudomonas,picture,Positive,Microaerophilic,3.26
+STR_156,Clostridium,police,Positive,Microaerophilic,6.4
+STR_700,Pseudomonas,water,Negative,Facultative Anaerobe,9.08
+STR_333,Lactobacillus,hope,Negative,Anaerobic,4.74
+STR_815,Clostridium,effort,Negative,Microaerophilic,9.81
+STR_185,Clostridium,ago,Negative,Microaerophilic,2.73
+STR_371,Staphylococcus,economic,Positive,Facultative Anaerobe,3.34
+STR_671,Clostridium,which,Positive,Facultative Anaerobe,4.58
+STR_610,Lactobacillus,bag,Negative,Microaerophilic,9.27
+STR_602,Clostridium,whatever,Negative,Anaerobic,8.83
+STR_692,Streptococcus,across,Negative,Facultative Anaerobe,7.51
+STR_861,Staphylococcus,guy,Positive,Anaerobic,6.27
+STR_574,Lactobacillus,others,Negative,Anaerobic,6.21
+STR_644,Staphylococcus,smile,Negative,Anaerobic,6.75
+STR_998,Bacillus,join,Negative,Facultative Anaerobe,5.23
+STR_871,Bacillus,commercial,Negative,Anaerobic,8.65
+STR_273,Clostridium,build,Positive,Aerobic,9.26
+STR_795,Clostridium,wind,Negative,Aerobic,0.68
+STR_942,Pseudomonas,read,Positive,Facultative Anaerobe,4.23
+STR_254,Clostridium,buy,Negative,Aerobic,2.56
+STR_947,Lactobacillus,make,Positive,Microaerophilic,7.26
+STR_737,Lactobacillus,easy,Negative,Facultative Anaerobe,1.56
+STR_949,Pseudomonas,exactly,Positive,Aerobic,4.98
+STR_961,Staphylococcus,similar,Negative,Anaerobic,1.33
+STR_949,Clostridium,answer,Negative,Microaerophilic,9.89
+STR_567,Pseudomonas,through,Positive,Facultative Anaerobe,6.07
+STR_735,Lactobacillus,really,Positive,Aerobic,5.05
+STR_345,Bacillus,agent,Negative,Aerobic,7.32
+STR_386,Bacillus,character,Positive,Facultative Anaerobe,3.73
+STR_663,Lactobacillus,stay,Positive,Anaerobic,5.23
+STR_925,Pseudomonas,stage,Positive,Anaerobic,8.61
+STR_439,Streptococcus,work,Negative,Facultative Anaerobe,5.39
+STR_167,Bacillus,color,Negative,Aerobic,5.83
+STR_997,Streptococcus,book,Positive,Facultative Anaerobe,5.89
+STR_825,Bacillus,per,Negative,Aerobic,9.51
+STR_438,Pseudomonas,huge,Negative,Microaerophilic,7.04
+STR_611,Bacillus,minute,Positive,Microaerophilic,2.71
+STR_338,Pseudomonas,military,Negative,Microaerophilic,6.45
+STR_268,Lactobacillus,find,Positive,Facultative Anaerobe,4.38
+STR_926,Staphylococcus,fall,Positive,Microaerophilic,9.01
+STR_595,Clostridium,boy,Negative,Microaerophilic,4.56
+STR_975,Streptococcus,ahead,Positive,Anaerobic,3.52
+STR_202,Bacillus,off,Positive,Microaerophilic,7.15
+STR_216,Bacillus,least,Negative,Facultative Anaerobe,5.21
+STR_503,Bacillus,easy,Positive,Anaerobic,8.9
+STR_717,Pseudomonas,loss,Negative,Anaerobic,8.8
+STR_689,Staphylococcus,exist,Negative,Microaerophilic,3.89
+STR_788,Lactobacillus,effort,Positive,Facultative Anaerobe,5.9
+STR_387,Streptococcus,gas,Negative,Aerobic,1.92
+STR_690,Clostridium,stock,Positive,Microaerophilic,5.14
+STR_129,Streptococcus,theory,Positive,Anaerobic,6.1
+STR_990,Clostridium,serve,Negative,Anaerobic,0.96
+STR_513,Lactobacillus,record,Positive,Aerobic,1.86
+STR_295,Pseudomonas,chance,Positive,Aerobic,4.97
+STR_269,Staphylococcus,debate,Negative,Aerobic,0.93
+STR_960,Streptococcus,certainly,Negative,Anaerobic,8.4
+STR_283,Staphylococcus,nothing,Negative,Anaerobic,8.15
+STR_518,Clostridium,either,Negative,Aerobic,4.91
+STR_122,Bacillus,arm,Positive,Anaerobic,7.62
+STR_800,Pseudomonas,notice,Positive,Microaerophilic,5.84
+STR_322,Pseudomonas,or,Negative,Aerobic,8.64
+STR_583,Clostridium,young,Positive,Anaerobic,1.37
+STR_689,Staphylococcus,include,Negative,Aerobic,8.34
+STR_717,Streptococcus,stuff,Positive,Aerobic,1.53
+STR_859,Bacillus,everybody,Negative,Anaerobic,6.25
+STR_322,Lactobacillus,production,Positive,Anaerobic,8.62
+STR_558,Pseudomonas,short,Negative,Anaerobic,6.63
+STR_575,Lactobacillus,well,Positive,Facultative Anaerobe,5.64
+STR_139,Bacillus,service,Positive,Microaerophilic,8.2
+STR_266,Lactobacillus,behind,Negative,Anaerobic,4.83
+STR_585,Clostridium,detail,Positive,Facultative Anaerobe,4.78
+STR_390,Lactobacillus,election,Positive,Microaerophilic,9.3
+STR_107,Streptococcus,seek,Positive,Microaerophilic,5.44
+STR_857,Bacillus,beat,Negative,Microaerophilic,6.28
+STR_332,Staphylococcus,science,Negative,Facultative Anaerobe,8.29
+STR_916,Lactobacillus,need,Negative,Aerobic,1.39
+STR_426,Bacillus,lawyer,Negative,Aerobic,8.57
+STR_883,Pseudomonas,case,Negative,Aerobic,5.73
+STR_163,Pseudomonas,ten,Positive,Facultative Anaerobe,7.86
+STR_196,Lactobacillus,effect,Positive,Aerobic,7.39
+STR_916,Pseudomonas,piece,Positive,Microaerophilic,6.29
+STR_791,Bacillus,keep,Positive,Facultative Anaerobe,6.59
+STR_592,Bacillus,six,Negative,Microaerophilic,1.08
+STR_813,Staphylococcus,employee,Positive,Anaerobic,3.61
+STR_948,Clostridium,newspaper,Negative,Anaerobic,2.34
+STR_832,Pseudomonas,follow,Negative,Aerobic,6.82
+STR_856,Streptococcus,candidate,Positive,Microaerophilic,5.34
+STR_815,Lactobacillus,scientist,Positive,Microaerophilic,1.05
+STR_853,Clostridium,science,Negative,Anaerobic,1.14
+STR_844,Bacillus,too,Positive,Facultative Anaerobe,8.39
+STR_812,Staphylococcus,girl,Positive,Anaerobic,2.04
+STR_463,Streptococcus,look,Positive,Microaerophilic,1.03
+STR_864,Streptococcus,accept,Positive,Facultative Anaerobe,2.47
+STR_454,Lactobacillus,parent,Negative,Facultative Anaerobe,6.11
+STR_160,Bacillus,yes,Negative,Anaerobic,1.16
+STR_647,Lactobacillus,ok,Positive,Anaerobic,1.37
+STR_570,Pseudomonas,ask,Positive,Facultative Anaerobe,6.28
+STR_284,Streptococcus,although,Positive,Aerobic,3.51
+STR_489,Pseudomonas,administration,Positive,Aerobic,4.94
+STR_360,Streptococcus,federal,Negative,Microaerophilic,6.54
+STR_676,Staphylococcus,across,Positive,Microaerophilic,3.3
+STR_292,Streptococcus,key,Negative,Aerobic,9.89
+STR_920,Streptococcus,my,Negative,Facultative Anaerobe,9.2
+STR_886,Staphylococcus,improve,Positive,Microaerophilic,3.78
+STR_210,Bacillus,operation,Negative,Microaerophilic,9.04
+STR_526,Staphylococcus,know,Positive,Microaerophilic,3.28
+STR_266,Pseudomonas,on,Positive,Aerobic,3.26
+STR_597,Staphylococcus,state,Positive,Facultative Anaerobe,7.21
+STR_435,Lactobacillus,too,Positive,Facultative Anaerobe,8.03
+STR_674,Pseudomonas,well,Positive,Facultative Anaerobe,0.74
+STR_193,Staphylococcus,study,Negative,Aerobic,7.79
+STR_723,Staphylococcus,cultural,Negative,Aerobic,9.06
+STR_258,Pseudomonas,every,Positive,Microaerophilic,4.55
+STR_720,Lactobacillus,determine,Positive,Facultative Anaerobe,0.62
+STR_790,Lactobacillus,trial,Negative,Microaerophilic,9.27
+STR_313,Bacillus,form,Negative,Anaerobic,8.93
+STR_716,Streptococcus,result,Positive,Anaerobic,2.4
+STR_868,Bacillus,type,Positive,Aerobic,7.2
+STR_324,Streptococcus,west,Positive,Anaerobic,3.68
+STR_815,Staphylococcus,new,Positive,Facultative Anaerobe,5.66
+STR_545,Pseudomonas,good,Positive,Microaerophilic,6.42
+STR_403,Bacillus,service,Positive,Aerobic,8.24
+STR_596,Lactobacillus,serve,Positive,Aerobic,6.07
+STR_853,Pseudomonas,off,Positive,Microaerophilic,7.51
+STR_661,Staphylococcus,relationship,Negative,Aerobic,7.12
+STR_666,Lactobacillus,southern,Positive,Anaerobic,3.63
+STR_476,Staphylococcus,main,Positive,Anaerobic,7.7
+STR_740,Streptococcus,strong,Negative,Microaerophilic,0.63
+STR_389,Bacillus,cover,Positive,Microaerophilic,2.68
+STR_785,Staphylococcus,there,Negative,Microaerophilic,8.14
+STR_656,Bacillus,physical,Positive,Facultative Anaerobe,4.23
+STR_181,Staphylococcus,much,Positive,Microaerophilic,2.52
+STR_599,Lactobacillus,medical,Negative,Aerobic,6.32
+STR_357,Streptococcus,season,Positive,Aerobic,1.33
+STR_617,Pseudomonas,population,Negative,Anaerobic,2.57
+STR_996,Clostridium,there,Negative,Microaerophilic,8.38
+STR_334,Lactobacillus,last,Negative,Aerobic,3.49
+STR_747,Lactobacillus,early,Positive,Microaerophilic,5.45
+STR_176,Lactobacillus,difficult,Negative,Anaerobic,1.51
+STR_986,Bacillus,according,Negative,Anaerobic,2.8
+STR_848,Staphylococcus,go,Positive,Aerobic,6.92
+STR_176,Staphylococcus,parent,Negative,Microaerophilic,5.88
+STR_851,Lactobacillus,air,Positive,Microaerophilic,2.42
+STR_701,Staphylococcus,as,Positive,Anaerobic,1.0
+STR_756,Pseudomonas,or,Positive,Aerobic,6.46
+STR_603,Pseudomonas,research,Positive,Aerobic,3.6
+STR_285,Bacillus,debate,Positive,Microaerophilic,1.2
+STR_856,Lactobacillus,generation,Positive,Aerobic,3.27
+STR_442,Streptococcus,heart,Positive,Aerobic,9.76
+STR_804,Streptococcus,say,Positive,Anaerobic,1.45
+STR_243,Bacillus,month,Negative,Aerobic,7.39
+STR_299,Pseudomonas,read,Positive,Microaerophilic,6.5
+STR_573,Staphylococcus,leave,Negative,Facultative Anaerobe,3.46
+STR_614,Streptococcus,green,Negative,Aerobic,5.7
+STR_247,Clostridium,eat,Negative,Facultative Anaerobe,5.42
+STR_334,Lactobacillus,feeling,Negative,Aerobic,4.27
+STR_550,Lactobacillus,hot,Negative,Anaerobic,5.87
+STR_855,Lactobacillus,everything,Negative,Microaerophilic,4.82
+STR_415,Clostridium,program,Negative,Anaerobic,6.58
+STR_551,Clostridium,hair,Positive,Facultative Anaerobe,5.99
+STR_643,Clostridium,seven,Negative,Anaerobic,6.25
+STR_907,Lactobacillus,eye,Negative,Anaerobic,9.1
+STR_388,Clostridium,painting,Positive,Facultative Anaerobe,1.89
+STR_389,Pseudomonas,really,Negative,Facultative Anaerobe,8.74
+STR_457,Pseudomonas,culture,Negative,Facultative Anaerobe,3.01
+STR_292,Bacillus,eight,Negative,Aerobic,2.58
+STR_348,Lactobacillus,yard,Negative,Anaerobic,8.07
+STR_915,Lactobacillus,everybody,Positive,Anaerobic,0.55
+STR_148,Bacillus,too,Negative,Aerobic,3.97
+STR_119,Staphylococcus,step,Positive,Anaerobic,4.92
+STR_359,Lactobacillus,detail,Negative,Aerobic,0.66
+STR_708,Pseudomonas,field,Negative,Anaerobic,8.43
+STR_743,Pseudomonas,fill,Negative,Aerobic,6.43
+STR_641,Lactobacillus,particular,Positive,Aerobic,4.25
+STR_970,Pseudomonas,everyone,Negative,Microaerophilic,0.95
+STR_636,Staphylococcus,soon,Positive,Facultative Anaerobe,8.19
+STR_334,Clostridium,visit,Negative,Microaerophilic,1.96
+STR_499,Streptococcus,agent,Negative,Microaerophilic,8.91
+STR_745,Clostridium,walk,Positive,Aerobic,0.65
+STR_590,Staphylococcus,human,Positive,Aerobic,5.56
+STR_471,Pseudomonas,significant,Positive,Facultative Anaerobe,5.87
+STR_575,Pseudomonas,rise,Negative,Aerobic,7.47
+STR_153,Pseudomonas,strong,Positive,Anaerobic,6.18
+STR_828,Bacillus,should,Positive,Facultative Anaerobe,4.58
+STR_455,Clostridium,do,Positive,Anaerobic,3.75
+STR_774,Clostridium,forget,Positive,Aerobic,9.75
+STR_744,Streptococcus,great,Positive,Aerobic,5.27
+STR_944,Clostridium,start,Positive,Anaerobic,6.83
+STR_253,Pseudomonas,effort,Positive,Aerobic,2.39
+STR_531,Clostridium,sit,Negative,Facultative Anaerobe,1.25
+STR_420,Pseudomonas,agree,Positive,Microaerophilic,9.3
+STR_474,Pseudomonas,station,Negative,Facultative Anaerobe,2.26
+STR_390,Staphylococcus,these,Positive,Microaerophilic,1.33
+STR_585,Streptococcus,capital,Positive,Facultative Anaerobe,3.25
+STR_168,Pseudomonas,professor,Negative,Facultative Anaerobe,3.68
+STR_527,Lactobacillus,affect,Positive,Anaerobic,2.57
+STR_550,Pseudomonas,turn,Positive,Microaerophilic,6.97
+STR_874,Bacillus,interest,Negative,Microaerophilic,5.13
+STR_667,Clostridium,carry,Negative,Anaerobic,1.43
+STR_286,Bacillus,benefit,Positive,Microaerophilic,6.54
+STR_296,Staphylococcus,benefit,Negative,Facultative Anaerobe,4.08
+STR_901,Streptococcus,worker,Negative,Microaerophilic,1.0
+STR_260,Pseudomonas,either,Negative,Aerobic,9.86
+STR_521,Pseudomonas,charge,Negative,Facultative Anaerobe,9.64
+STR_201,Streptococcus,end,Negative,Anaerobic,9.66
+STR_461,Lactobacillus,may,Positive,Aerobic,6.94
+STR_708,Lactobacillus,police,Negative,Anaerobic,6.44
+STR_677,Staphylococcus,fine,Negative,Anaerobic,3.89
+STR_494,Streptococcus,anything,Negative,Aerobic,4.32
+STR_213,Streptococcus,suffer,Negative,Aerobic,7.98
+STR_883,Clostridium,forward,Negative,Anaerobic,8.04
+STR_757,Lactobacillus,time,Positive,Anaerobic,8.02
+STR_944,Clostridium,there,Positive,Anaerobic,1.04
+STR_345,Bacillus,thousand,Negative,Microaerophilic,9.21
+STR_954,Lactobacillus,similar,Negative,Microaerophilic,3.94
+STR_436,Staphylococcus,pass,Positive,Facultative Anaerobe,6.5
+STR_495,Lactobacillus,agent,Positive,Microaerophilic,8.09
+STR_336,Clostridium,claim,Negative,Aerobic,0.6
+STR_600,Streptococcus,author,Positive,Aerobic,3.72
+STR_626,Lactobacillus,Mrs,Negative,Anaerobic,8.3
+STR_759,Staphylococcus,item,Negative,Microaerophilic,3.34
+STR_832,Pseudomonas,reach,Negative,Microaerophilic,1.94
+STR_821,Bacillus,later,Negative,Microaerophilic,4.89
+STR_901,Bacillus,among,Positive,Facultative Anaerobe,5.35
+STR_959,Bacillus,increase,Positive,Microaerophilic,9.81
+STR_366,Streptococcus,really,Negative,Microaerophilic,1.14
+STR_587,Pseudomonas,small,Negative,Microaerophilic,4.83
+STR_211,Pseudomonas,significant,Negative,Anaerobic,9.42
+STR_434,Pseudomonas,better,Negative,Aerobic,6.04
+STR_928,Bacillus,send,Positive,Microaerophilic,7.1
+STR_264,Streptococcus,forward,Positive,Aerobic,4.36
+STR_420,Streptococcus,writer,Negative,Anaerobic,6.91
+STR_499,Bacillus,make,Negative,Aerobic,1.5
+STR_296,Bacillus,safe,Negative,Aerobic,3.53
+STR_879,Lactobacillus,memory,Positive,Microaerophilic,4.51
+STR_386,Clostridium,marriage,Negative,Microaerophilic,0.88
+STR_743,Pseudomonas,week,Negative,Aerobic,5.66
+STR_569,Streptococcus,save,Negative,Anaerobic,8.26
+STR_968,Clostridium,address,Positive,Anaerobic,9.6
+STR_668,Streptococcus,religious,Negative,Facultative Anaerobe,6.61
+STR_112,Staphylococcus,scene,Negative,Aerobic,0.94
+STR_342,Clostridium,candidate,Positive,Aerobic,7.82
+STR_978,Bacillus,culture,Negative,Aerobic,2.16
+STR_983,Bacillus,set,Negative,Anaerobic,2.1
+STR_929,Clostridium,state,Negative,Microaerophilic,7.72
+STR_736,Streptococcus,white,Negative,Aerobic,8.15
+STR_897,Bacillus,ask,Positive,Microaerophilic,7.86
+STR_776,Clostridium,difference,Positive,Facultative Anaerobe,2.98
+STR_800,Bacillus,art,Negative,Aerobic,5.22
+STR_528,Staphylococcus,expect,Negative,Microaerophilic,5.7
+STR_840,Lactobacillus,court,Negative,Anaerobic,8.12
+STR_415,Bacillus,now,Negative,Facultative Anaerobe,4.33
+STR_338,Pseudomonas,defense,Negative,Facultative Anaerobe,7.56
+STR_114,Staphylococcus,speak,Negative,Aerobic,6.58
+STR_984,Clostridium,resource,Positive,Microaerophilic,9.48
+STR_261,Bacillus,them,Negative,Aerobic,0.62
+STR_462,Clostridium,memory,Positive,Aerobic,3.39
+STR_146,Staphylococcus,market,Negative,Microaerophilic,0.84
+STR_579,Clostridium,feel,Negative,Microaerophilic,0.97
+STR_157,Pseudomonas,week,Negative,Microaerophilic,9.52
+STR_961,Pseudomonas,administration,Positive,Facultative Anaerobe,6.49
+STR_117,Staphylococcus,total,Negative,Aerobic,3.15
+STR_984,Staphylococcus,night,Negative,Microaerophilic,4.16
+STR_639,Clostridium,administration,Positive,Anaerobic,7.03
+STR_592,Staphylococcus,action,Negative,Facultative Anaerobe,5.81
+STR_705,Lactobacillus,those,Negative,Anaerobic,7.57
+STR_377,Pseudomonas,somebody,Positive,Facultative Anaerobe,7.84
+STR_305,Pseudomonas,deep,Negative,Facultative Anaerobe,2.85
+STR_369,Clostridium,better,Negative,Aerobic,8.85
+STR_274,Streptococcus,form,Positive,Anaerobic,5.49
+STR_363,Staphylococcus,message,Positive,Facultative Anaerobe,6.46
+STR_332,Clostridium,in,Positive,Aerobic,3.01
+STR_906,Clostridium,spring,Negative,Facultative Anaerobe,0.56
+STR_201,Pseudomonas,every,Negative,Microaerophilic,3.78
+STR_993,Staphylococcus,consumer,Positive,Anaerobic,9.94
+STR_454,Pseudomonas,source,Positive,Aerobic,7.7
+STR_985,Pseudomonas,remain,Positive,Aerobic,1.43
+STR_918,Pseudomonas,environmental,Positive,Facultative Anaerobe,2.19
+STR_671,Lactobacillus,happen,Positive,Facultative Anaerobe,7.18
+STR_440,Pseudomonas,finally,Positive,Microaerophilic,5.46
+STR_687,Clostridium,series,Negative,Aerobic,2.69
+STR_322,Lactobacillus,among,Positive,Aerobic,5.96
+STR_469,Lactobacillus,buy,Negative,Facultative Anaerobe,9.9
+STR_695,Bacillus,once,Negative,Microaerophilic,6.53
+STR_899,Clostridium,apply,Positive,Aerobic,7.7
+STR_521,Clostridium,democratic,Positive,Microaerophilic,1.67
+STR_384,Bacillus,account,Positive,Facultative Anaerobe,7.67
+STR_140,Staphylococcus,pass,Negative,Microaerophilic,4.82
+STR_866,Lactobacillus,concern,Negative,Microaerophilic,4.18
+STR_862,Staphylococcus,go,Negative,Aerobic,1.58
+STR_123,Bacillus,several,Positive,Facultative Anaerobe,5.72
+STR_375,Streptococcus,especially,Positive,Facultative Anaerobe,7.4
+STR_373,Streptococcus,voice,Negative,Aerobic,3.1
+STR_723,Clostridium,office,Positive,Anaerobic,5.2
+STR_421,Streptococcus,family,Positive,Aerobic,6.25
+STR_854,Bacillus,drop,Negative,Anaerobic,8.35
+STR_373,Clostridium,group,Positive,Anaerobic,5.67
+STR_719,Bacillus,bank,Positive,Microaerophilic,2.19
+STR_611,Bacillus,true,Negative,Anaerobic,2.46
+STR_414,Clostridium,wish,Negative,Anaerobic,3.58
+STR_658,Pseudomonas,though,Positive,Anaerobic,7.87
+STR_868,Pseudomonas,throughout,Positive,Anaerobic,6.58
+STR_606,Clostridium,carry,Negative,Microaerophilic,1.38
+STR_586,Streptococcus,chance,Positive,Anaerobic,4.41
+STR_935,Streptococcus,make,Positive,Facultative Anaerobe,4.8
+STR_300,Clostridium,later,Negative,Anaerobic,8.24
+STR_129,Lactobacillus,kid,Positive,Anaerobic,5.72
+STR_996,Streptococcus,upon,Negative,Anaerobic,5.07
+STR_438,Lactobacillus,rule,Negative,Microaerophilic,1.15
+STR_967,Staphylococcus,name,Negative,Aerobic,2.56
+STR_342,Lactobacillus,federal,Positive,Microaerophilic,6.17
+STR_498,Bacillus,use,Negative,Facultative Anaerobe,6.84
+STR_558,Streptococcus,and,Negative,Microaerophilic,0.87
+STR_705,Clostridium,guy,Positive,Facultative Anaerobe,5.01
+STR_277,Clostridium,make,Positive,Aerobic,4.23
+STR_637,Streptococcus,really,Negative,Facultative Anaerobe,9.82
+STR_948,Pseudomonas,next,Positive,Anaerobic,7.74
+STR_173,Streptococcus,store,Positive,Anaerobic,5.43
+STR_618,Pseudomonas,suddenly,Negative,Microaerophilic,0.98
+STR_985,Clostridium,put,Positive,Anaerobic,4.29
+STR_190,Lactobacillus,unit,Positive,Anaerobic,6.3
+STR_266,Bacillus,analysis,Negative,Anaerobic,2.0
+STR_453,Lactobacillus,dinner,Negative,Facultative Anaerobe,6.25
+STR_634,Clostridium,why,Positive,Aerobic,8.52
+STR_795,Bacillus,job,Positive,Microaerophilic,3.14
+STR_537,Lactobacillus,final,Positive,Microaerophilic,7.79
+STR_980,Lactobacillus,full,Negative,Microaerophilic,3.33
+STR_823,Staphylococcus,idea,Negative,Anaerobic,0.97
+STR_283,Lactobacillus,others,Positive,Microaerophilic,9.29
+STR_980,Bacillus,share,Positive,Microaerophilic,4.09
+STR_219,Clostridium,situation,Negative,Anaerobic,0.78
+STR_631,Streptococcus,describe,Negative,Anaerobic,8.09
+STR_206,Pseudomonas,analysis,Negative,Anaerobic,7.77
+STR_283,Staphylococcus,fly,Negative,Microaerophilic,3.15
+STR_862,Pseudomonas,interview,Negative,Facultative Anaerobe,8.87
+STR_426,Pseudomonas,talk,Negative,Facultative Anaerobe,7.87
+STR_937,Pseudomonas,middle,Positive,Aerobic,3.08
+STR_435,Streptococcus,must,Positive,Microaerophilic,9.56
+STR_876,Streptococcus,important,Positive,Anaerobic,4.59
+STR_463,Lactobacillus,bit,Positive,Aerobic,4.63
+STR_499,Clostridium,industry,Positive,Aerobic,8.31
+STR_662,Pseudomonas,maybe,Positive,Facultative Anaerobe,4.58
+STR_320,Staphylococcus,once,Negative,Facultative Anaerobe,8.25
+STR_389,Bacillus,skin,Negative,Facultative Anaerobe,8.78
+STR_847,Pseudomonas,son,Negative,Anaerobic,5.58
+STR_367,Bacillus,black,Positive,Anaerobic,3.64
+STR_160,Clostridium,amount,Positive,Anaerobic,0.55
+STR_477,Pseudomonas,image,Negative,Facultative Anaerobe,4.26
+STR_220,Bacillus,speak,Positive,Aerobic,8.09
+STR_263,Staphylococcus,challenge,Negative,Anaerobic,3.33
+STR_574,Pseudomonas,bad,Positive,Aerobic,4.17
+STR_536,Clostridium,class,Positive,Facultative Anaerobe,5.37
+STR_195,Streptococcus,president,Negative,Facultative Anaerobe,9.52
+STR_773,Staphylococcus,put,Negative,Anaerobic,3.75
+STR_799,Streptococcus,rather,Negative,Microaerophilic,7.24
+STR_964,Clostridium,cost,Negative,Microaerophilic,0.7
+STR_621,Streptococcus,do,Negative,Anaerobic,4.77
+STR_474,Clostridium,give,Positive,Facultative Anaerobe,3.81
+STR_804,Streptococcus,yes,Negative,Anaerobic,7.26
+STR_493,Bacillus,else,Negative,Facultative Anaerobe,7.59
+STR_697,Pseudomonas,hot,Positive,Anaerobic,1.24
+STR_210,Lactobacillus,individual,Negative,Aerobic,4.2
+STR_198,Bacillus,among,Negative,Microaerophilic,3.87
+STR_275,Pseudomonas,risk,Positive,Facultative Anaerobe,6.02
+STR_478,Staphylococcus,method,Negative,Facultative Anaerobe,7.13
+STR_662,Streptococcus,hotel,Positive,Facultative Anaerobe,7.2
+STR_211,Pseudomonas,candidate,Positive,Anaerobic,4.69
+STR_364,Streptococcus,skill,Positive,Microaerophilic,6.63
+STR_745,Streptococcus,successful,Negative,Microaerophilic,5.47
+STR_578,Clostridium,Congress,Negative,Facultative Anaerobe,6.9
+STR_477,Bacillus,lawyer,Positive,Anaerobic,5.35
+STR_966,Clostridium,would,Negative,Facultative Anaerobe,6.75
+STR_284,Pseudomonas,ask,Negative,Anaerobic,5.36
+STR_922,Bacillus,wind,Positive,Anaerobic,5.42
+STR_628,Staphylococcus,third,Positive,Facultative Anaerobe,0.85
+STR_146,Staphylococcus,free,Positive,Anaerobic,4.26
+STR_484,Staphylococcus,relationship,Positive,Anaerobic,5.04
+STR_945,Staphylococcus,after,Positive,Microaerophilic,6.04
+STR_709,Streptococcus,exactly,Negative,Facultative Anaerobe,4.57
+STR_415,Pseudomonas,film,Positive,Aerobic,6.22
+STR_507,Bacillus,service,Negative,Microaerophilic,1.05
+STR_667,Streptococcus,leave,Negative,Aerobic,6.96
+STR_237,Staphylococcus,about,Positive,Aerobic,5.06
+STR_604,Bacillus,these,Positive,Facultative Anaerobe,8.75
+STR_655,Staphylococcus,some,Positive,Facultative Anaerobe,1.75
+STR_970,Streptococcus,about,Positive,Microaerophilic,6.94
+STR_921,Clostridium,after,Positive,Facultative Anaerobe,8.61
+STR_792,Lactobacillus,check,Negative,Microaerophilic,5.94
+STR_708,Staphylococcus,may,Negative,Microaerophilic,7.46
+STR_529,Bacillus,beat,Positive,Anaerobic,1.6
+STR_736,Streptococcus,significant,Negative,Microaerophilic,6.05
+STR_482,Pseudomonas,lot,Negative,Anaerobic,4.41
+STR_449,Bacillus,short,Positive,Anaerobic,8.53
+STR_435,Lactobacillus,open,Negative,Aerobic,6.54
+STR_697,Bacillus,company,Positive,Anaerobic,1.33
+STR_611,Staphylococcus,number,Positive,Microaerophilic,4.05
+STR_893,Streptococcus,if,Positive,Microaerophilic,2.56
+STR_988,Streptococcus,even,Positive,Facultative Anaerobe,9.0
+STR_466,Staphylococcus,surface,Positive,Aerobic,4.27
+STR_589,Bacillus,generation,Negative,Anaerobic,8.64
+STR_849,Staphylococcus,investment,Positive,Facultative Anaerobe,0.78
+STR_159,Streptococcus,risk,Negative,Aerobic,7.93
+STR_261,Staphylococcus,thought,Positive,Facultative Anaerobe,3.48
+STR_144,Clostridium,low,Negative,Facultative Anaerobe,6.3
+STR_274,Streptococcus,stuff,Negative,Aerobic,9.4
+STR_425,Pseudomonas,camera,Positive,Anaerobic,4.98
+STR_592,Pseudomonas,once,Positive,Anaerobic,8.6
+STR_408,Pseudomonas,far,Positive,Microaerophilic,1.85
+STR_853,Lactobacillus,wide,Negative,Anaerobic,0.88
+STR_256,Clostridium,leave,Positive,Microaerophilic,3.09
+STR_510,Streptococcus,arrive,Positive,Facultative Anaerobe,3.27
+STR_649,Clostridium,far,Positive,Facultative Anaerobe,2.57
+STR_606,Staphylococcus,take,Negative,Anaerobic,7.22
+STR_710,Streptococcus,contain,Negative,Aerobic,2.99
+STR_939,Streptococcus,difficult,Negative,Anaerobic,5.64
+STR_970,Streptococcus,hair,Negative,Microaerophilic,3.41
+STR_816,Pseudomonas,catch,Negative,Microaerophilic,9.37
+STR_258,Clostridium,want,Negative,Facultative Anaerobe,4.58
+STR_854,Pseudomonas,of,Positive,Aerobic,9.86
+STR_375,Bacillus,special,Positive,Anaerobic,4.61
+STR_316,Streptococcus,outside,Negative,Microaerophilic,7.68
+STR_674,Pseudomonas,wide,Positive,Facultative Anaerobe,3.68
+STR_281,Pseudomonas,discover,Negative,Microaerophilic,2.16
+STR_467,Bacillus,arrive,Positive,Anaerobic,4.43
+STR_246,Staphylococcus,reflect,Positive,Anaerobic,7.22
+STR_448,Streptococcus,accept,Positive,Anaerobic,1.62
+STR_291,Streptococcus,for,Negative,Facultative Anaerobe,4.8
+STR_213,Pseudomonas,air,Negative,Microaerophilic,2.82
+STR_511,Staphylococcus,amount,Negative,Aerobic,3.7
+STR_948,Streptococcus,positive,Negative,Microaerophilic,1.95
+STR_133,Bacillus,capital,Positive,Anaerobic,8.1
+STR_687,Streptococcus,eight,Positive,Facultative Anaerobe,5.08
+STR_822,Pseudomonas,foot,Negative,Aerobic,0.79
+STR_910,Pseudomonas,top,Positive,Facultative Anaerobe,4.04
+STR_970,Staphylococcus,particularly,Negative,Facultative Anaerobe,4.51
+STR_883,Bacillus,news,Positive,Aerobic,5.03
+STR_650,Clostridium,sport,Positive,Anaerobic,2.37
+STR_960,Streptococcus,situation,Negative,Microaerophilic,5.48
+STR_805,Lactobacillus,gun,Negative,Anaerobic,7.81
+STR_216,Staphylococcus,return,Negative,Microaerophilic,1.55
+STR_776,Streptococcus,issue,Positive,Anaerobic,2.89
+STR_284,Staphylococcus,hot,Negative,Facultative Anaerobe,5.55
+STR_402,Staphylococcus,market,Negative,Anaerobic,8.38
+STR_695,Staphylococcus,tonight,Negative,Facultative Anaerobe,0.92
+STR_785,Lactobacillus,work,Negative,Facultative Anaerobe,6.27
+STR_849,Streptococcus,possible,Positive,Anaerobic,1.57
+STR_100,Bacillus,enter,Positive,Facultative Anaerobe,2.05
+STR_548,Streptococcus,training,Negative,Anaerobic,2.59
+STR_544,Lactobacillus,raise,Positive,Aerobic,7.23
+STR_719,Bacillus,popular,Positive,Anaerobic,5.13
+STR_134,Bacillus,behind,Negative,Microaerophilic,5.55
+STR_725,Staphylococcus,seem,Positive,Aerobic,9.38
+STR_883,Bacillus,somebody,Negative,Facultative Anaerobe,6.51
+STR_293,Staphylococcus,personal,Positive,Anaerobic,3.81
+STR_428,Streptococcus,effect,Negative,Microaerophilic,4.06
+STR_182,Staphylococcus,throw,Negative,Facultative Anaerobe,1.89
+STR_878,Clostridium,arrive,Positive,Aerobic,4.9
+STR_747,Bacillus,civil,Negative,Microaerophilic,2.19
+STR_798,Streptococcus,Republican,Negative,Facultative Anaerobe,6.13
+STR_955,Lactobacillus,court,Positive,Aerobic,5.01
+STR_344,Bacillus,attention,Negative,Aerobic,8.6
+STR_483,Bacillus,pick,Positive,Anaerobic,9.09
+STR_102,Streptococcus,year,Negative,Anaerobic,3.65
+STR_974,Lactobacillus,moment,Negative,Anaerobic,2.03
+STR_361,Pseudomonas,throughout,Positive,Aerobic,7.19
+STR_641,Clostridium,short,Positive,Facultative Anaerobe,6.58
+STR_604,Lactobacillus,money,Negative,Facultative Anaerobe,7.98
+STR_728,Bacillus,house,Negative,Anaerobic,4.67
+STR_358,Streptococcus,rock,Negative,Aerobic,9.05
+STR_712,Staphylococcus,only,Positive,Anaerobic,0.75
+STR_363,Clostridium,network,Positive,Aerobic,0.57
+STR_631,Pseudomonas,sing,Positive,Anaerobic,7.6
+STR_923,Staphylococcus,practice,Positive,Aerobic,3.31
+STR_113,Bacillus,culture,Negative,Aerobic,8.04
+STR_427,Bacillus,alone,Positive,Microaerophilic,3.75
+STR_723,Staphylococcus,support,Negative,Anaerobic,1.6
+STR_891,Bacillus,machine,Negative,Microaerophilic,4.09
+STR_884,Bacillus,camera,Negative,Facultative Anaerobe,3.4
+STR_578,Staphylococcus,then,Negative,Anaerobic,3.74
+STR_736,Lactobacillus,unit,Positive,Aerobic,4.25
+STR_574,Lactobacillus,he,Negative,Facultative Anaerobe,4.13
+STR_459,Pseudomonas,I,Positive,Anaerobic,4.66
+STR_343,Bacillus,in,Negative,Microaerophilic,7.91
+STR_339,Staphylococcus,station,Positive,Facultative Anaerobe,4.02
+STR_946,Staphylococcus,either,Positive,Anaerobic,1.03
+STR_235,Clostridium,six,Positive,Anaerobic,2.11
+STR_550,Clostridium,leader,Negative,Aerobic,8.26
+STR_546,Staphylococcus,difference,Positive,Aerobic,4.13
+STR_308,Streptococcus,he,Positive,Anaerobic,1.99
+STR_279,Clostridium,identify,Negative,Anaerobic,7.33
+STR_847,Bacillus,organization,Negative,Facultative Anaerobe,6.98
+STR_502,Staphylococcus,guess,Positive,Facultative Anaerobe,5.0
+STR_158,Streptococcus,raise,Negative,Microaerophilic,6.05
+STR_528,Bacillus,during,Positive,Facultative Anaerobe,1.82
+STR_914,Streptococcus,section,Negative,Anaerobic,8.97
+STR_277,Lactobacillus,recent,Negative,Aerobic,6.64
+STR_752,Staphylococcus,hit,Positive,Facultative Anaerobe,9.53
+STR_939,Pseudomonas,knowledge,Negative,Aerobic,7.12
+STR_280,Clostridium,voice,Positive,Anaerobic,7.08
+STR_677,Streptococcus,should,Negative,Microaerophilic,9.14
+STR_516,Bacillus,firm,Positive,Facultative Anaerobe,6.89
+STR_180,Staphylococcus,sister,Negative,Facultative Anaerobe,5.12
+STR_944,Pseudomonas,hospital,Negative,Facultative Anaerobe,8.27
+STR_319,Streptococcus,first,Negative,Aerobic,6.12
+STR_161,Streptococcus,community,Positive,Aerobic,2.22
+STR_846,Pseudomonas,tree,Negative,Anaerobic,1.73
+STR_591,Bacillus,home,Negative,Microaerophilic,1.87
+STR_132,Staphylococcus,activity,Negative,Microaerophilic,1.56
+STR_757,Streptococcus,wall,Positive,Facultative Anaerobe,8.76
+STR_242,Clostridium,determine,Positive,Anaerobic,8.17
+STR_701,Pseudomonas,yourself,Negative,Facultative Anaerobe,0.76
+STR_920,Pseudomonas,actually,Positive,Aerobic,2.08
+STR_313,Bacillus,interest,Negative,Aerobic,8.99
+STR_623,Pseudomonas,term,Positive,Aerobic,4.45
+STR_786,Staphylococcus,any,Negative,Aerobic,4.08
+STR_373,Staphylococcus,need,Positive,Aerobic,1.36
+STR_126,Lactobacillus,same,Positive,Anaerobic,7.54
+STR_815,Lactobacillus,still,Positive,Microaerophilic,7.82
+STR_401,Streptococcus,consumer,Positive,Anaerobic,1.68
+STR_236,Bacillus,class,Positive,Microaerophilic,6.79
+STR_701,Bacillus,space,Positive,Microaerophilic,1.82
+STR_335,Staphylococcus,audience,Positive,Microaerophilic,7.14
+STR_772,Clostridium,seven,Negative,Microaerophilic,3.8
+STR_913,Pseudomonas,brother,Positive,Microaerophilic,0.77
+STR_463,Pseudomonas,consumer,Positive,Facultative Anaerobe,5.22
+STR_740,Streptococcus,story,Positive,Anaerobic,2.21
+STR_770,Streptococcus,over,Negative,Microaerophilic,6.9
+STR_909,Clostridium,design,Positive,Microaerophilic,4.4
+STR_175,Bacillus,feel,Positive,Facultative Anaerobe,7.11
+STR_308,Staphylococcus,prepare,Negative,Facultative Anaerobe,9.02
+STR_611,Clostridium,season,Negative,Microaerophilic,8.36
+STR_118,Lactobacillus,sport,Positive,Facultative Anaerobe,9.19
+STR_299,Lactobacillus,bring,Positive,Aerobic,8.61
+STR_458,Pseudomonas,safe,Positive,Microaerophilic,3.03
+STR_231,Bacillus,figure,Positive,Facultative Anaerobe,6.4
+STR_557,Bacillus,course,Negative,Aerobic,8.46
+STR_872,Staphylococcus,interest,Negative,Facultative Anaerobe,1.07
+STR_309,Pseudomonas,prepare,Positive,Anaerobic,1.66
+STR_545,Bacillus,find,Negative,Anaerobic,4.16
+STR_993,Bacillus,green,Positive,Facultative Anaerobe,1.07
+STR_611,Clostridium,bag,Negative,Facultative Anaerobe,8.56
+STR_823,Clostridium,weight,Positive,Microaerophilic,5.55
+STR_746,Bacillus,movement,Negative,Microaerophilic,9.56
+STR_732,Bacillus,meet,Positive,Facultative Anaerobe,3.84
+STR_722,Staphylococcus,eight,Positive,Facultative Anaerobe,2.5
+STR_645,Streptococcus,table,Negative,Anaerobic,8.99
+STR_577,Pseudomonas,to,Negative,Microaerophilic,7.98
+STR_946,Staphylococcus,create,Negative,Microaerophilic,0.66
+STR_389,Clostridium,student,Positive,Microaerophilic,4.34
+STR_757,Streptococcus,difficult,Positive,Facultative Anaerobe,0.94
+STR_722,Streptococcus,just,Negative,Facultative Anaerobe,2.65
+STR_392,Staphylococcus,style,Positive,Aerobic,1.94
+STR_788,Lactobacillus,mouth,Negative,Aerobic,5.27
+STR_617,Lactobacillus,later,Negative,Facultative Anaerobe,5.46
+STR_536,Clostridium,health,Negative,Facultative Anaerobe,2.29
+STR_968,Clostridium,join,Negative,Aerobic,5.44
+STR_220,Bacillus,someone,Positive,Aerobic,6.68
+STR_876,Staphylococcus,message,Positive,Facultative Anaerobe,4.02
+STR_948,Staphylococcus,whole,Positive,Anaerobic,1.01
+STR_602,Lactobacillus,group,Positive,Anaerobic,2.3
+STR_324,Bacillus,range,Positive,Anaerobic,9.36
+STR_798,Clostridium,third,Positive,Microaerophilic,9.88
+STR_664,Clostridium,under,Negative,Microaerophilic,3.98
+STR_626,Clostridium,whatever,Positive,Facultative Anaerobe,7.74
+STR_842,Staphylococcus,nice,Negative,Facultative Anaerobe,6.97
+STR_885,Streptococcus,heart,Positive,Aerobic,3.12
+STR_501,Streptococcus,off,Positive,Anaerobic,5.35
+STR_667,Lactobacillus,toward,Negative,Aerobic,5.34
+STR_995,Staphylococcus,travel,Positive,Aerobic,5.12
+STR_463,Clostridium,fact,Negative,Facultative Anaerobe,1.47
+STR_619,Clostridium,smile,Positive,Microaerophilic,4.8
+STR_575,Pseudomonas,activity,Positive,Microaerophilic,9.01
+STR_730,Clostridium,ground,Positive,Aerobic,7.22
+STR_864,Staphylococcus,service,Negative,Aerobic,8.01
+STR_177,Staphylococcus,once,Positive,Anaerobic,6.35
+STR_868,Bacillus,professional,Positive,Anaerobic,7.4
+STR_799,Clostridium,single,Negative,Facultative Anaerobe,3.01
+STR_423,Streptococcus,believe,Positive,Anaerobic,2.47
+STR_672,Streptococcus,task,Positive,Facultative Anaerobe,6.07
+STR_197,Staphylococcus,program,Negative,Anaerobic,4.66
+STR_182,Lactobacillus,detail,Negative,Anaerobic,1.19
+STR_301,Lactobacillus,suffer,Positive,Aerobic,4.54
+STR_335,Bacillus,former,Positive,Facultative Anaerobe,5.78
+STR_839,Lactobacillus,thousand,Negative,Facultative Anaerobe,4.82
+STR_663,Pseudomonas,top,Positive,Facultative Anaerobe,5.54
+STR_977,Streptococcus,product,Positive,Facultative Anaerobe,3.63
+STR_748,Staphylococcus,force,Negative,Aerobic,1.42
+STR_447,Bacillus,head,Negative,Anaerobic,4.2
+STR_827,Lactobacillus,seven,Positive,Anaerobic,3.59
+STR_564,Pseudomonas,sit,Negative,Anaerobic,6.66
+STR_144,Clostridium,out,Negative,Microaerophilic,4.88
+STR_942,Clostridium,especially,Positive,Aerobic,5.33
+STR_877,Staphylococcus,test,Positive,Facultative Anaerobe,7.33
+STR_428,Clostridium,instead,Negative,Anaerobic,8.4
+STR_488,Lactobacillus,think,Negative,Facultative Anaerobe,9.04
+STR_770,Streptococcus,side,Positive,Microaerophilic,5.24
+STR_236,Pseudomonas,break,Positive,Aerobic,7.5
+STR_179,Pseudomonas,meeting,Positive,Aerobic,6.44
+STR_369,Lactobacillus,teach,Positive,Anaerobic,2.0
+STR_352,Bacillus,add,Negative,Facultative Anaerobe,1.26
+STR_752,Staphylococcus,expect,Positive,Aerobic,6.94
+STR_698,Pseudomonas,growth,Negative,Microaerophilic,7.91
+STR_817,Staphylococcus,available,Negative,Aerobic,5.5
+STR_445,Pseudomonas,ready,Positive,Facultative Anaerobe,5.59
+STR_655,Bacillus,teacher,Positive,Microaerophilic,3.18
+STR_796,Pseudomonas,feeling,Negative,Microaerophilic,7.69
+STR_347,Staphylococcus,collection,Positive,Aerobic,7.79
+STR_250,Clostridium,mean,Positive,Anaerobic,2.56
+STR_725,Staphylococcus,their,Positive,Anaerobic,10.0
+STR_742,Streptococcus,the,Negative,Anaerobic,6.56
+STR_703,Pseudomonas,fish,Positive,Facultative Anaerobe,9.54
+STR_981,Streptococcus,account,Negative,Facultative Anaerobe,6.5
+STR_114,Streptococcus,general,Negative,Anaerobic,1.05
+STR_443,Pseudomonas,authority,Negative,Microaerophilic,6.13
+STR_845,Clostridium,music,Negative,Aerobic,7.12
+STR_751,Lactobacillus,ready,Negative,Aerobic,6.37
+STR_391,Clostridium,address,Positive,Aerobic,8.08
+STR_482,Streptococcus,least,Negative,Microaerophilic,5.81
+STR_769,Pseudomonas,region,Positive,Facultative Anaerobe,6.02
+STR_754,Lactobacillus,land,Negative,Microaerophilic,7.1
+STR_512,Lactobacillus,law,Positive,Facultative Anaerobe,5.99
+STR_142,Streptococcus,school,Negative,Microaerophilic,7.64
+STR_428,Lactobacillus,left,Negative,Anaerobic,5.02
+STR_174,Lactobacillus,two,Negative,Anaerobic,8.46
+STR_702,Streptococcus,stop,Positive,Microaerophilic,2.2
+STR_772,Lactobacillus,determine,Positive,Aerobic,3.57
+STR_736,Clostridium,health,Negative,Facultative Anaerobe,3.26
+STR_762,Lactobacillus,second,Negative,Microaerophilic,1.15
+STR_986,Bacillus,its,Negative,Anaerobic,8.43
+STR_471,Clostridium,hour,Negative,Facultative Anaerobe,9.88
+STR_499,Streptococcus,production,Negative,Microaerophilic,2.91
+STR_657,Lactobacillus,trouble,Negative,Facultative Anaerobe,8.54
+STR_924,Streptococcus,owner,Negative,Anaerobic,6.06
+STR_335,Staphylococcus,share,Positive,Aerobic,9.14
+STR_432,Staphylococcus,level,Positive,Facultative Anaerobe,4.43
+STR_538,Streptococcus,skin,Negative,Aerobic,0.7
+STR_457,Bacillus,watch,Negative,Anaerobic,5.66
+STR_538,Streptococcus,become,Positive,Microaerophilic,7.14
+STR_271,Clostridium,trouble,Negative,Microaerophilic,3.34
+STR_618,Staphylococcus,color,Negative,Facultative Anaerobe,4.26
+STR_814,Staphylococcus,special,Positive,Anaerobic,7.91
+STR_365,Clostridium,either,Negative,Facultative Anaerobe,2.68
+STR_819,Bacillus,simple,Negative,Microaerophilic,4.92
+STR_963,Pseudomonas,wife,Negative,Aerobic,1.45
+STR_634,Clostridium,toward,Negative,Aerobic,0.87
+STR_672,Lactobacillus,eat,Positive,Aerobic,2.15
+STR_323,Bacillus,keep,Negative,Aerobic,3.49
+STR_328,Bacillus,decide,Positive,Anaerobic,7.51
+STR_172,Staphylococcus,red,Negative,Facultative Anaerobe,9.1
+STR_655,Pseudomonas,suddenly,Negative,Anaerobic,9.75
+STR_858,Streptococcus,term,Positive,Aerobic,9.64
+STR_256,Pseudomonas,build,Positive,Anaerobic,6.43
+STR_709,Staphylococcus,sign,Positive,Anaerobic,9.28
+STR_903,Lactobacillus,seem,Negative,Facultative Anaerobe,5.41
+STR_100,Streptococcus,strong,Negative,Aerobic,5.14
+STR_473,Streptococcus,economy,Positive,Aerobic,5.54
+STR_723,Bacillus,politics,Positive,Microaerophilic,8.48
+STR_164,Bacillus,production,Positive,Microaerophilic,3.83
+STR_583,Clostridium,fear,Positive,Microaerophilic,8.18
+STR_471,Bacillus,anything,Positive,Microaerophilic,2.34
+STR_952,Streptococcus,situation,Positive,Aerobic,4.04
+STR_480,Clostridium,may,Positive,Microaerophilic,1.59
+STR_363,Bacillus,small,Positive,Aerobic,8.07
+STR_151,Pseudomonas,election,Positive,Anaerobic,6.75
+STR_131,Streptococcus,voice,Negative,Microaerophilic,2.11
+STR_743,Bacillus,one,Negative,Aerobic,3.3
+STR_342,Bacillus,employee,Negative,Aerobic,9.68
+STR_244,Streptococcus,live,Negative,Microaerophilic,2.28
+STR_617,Pseudomonas,never,Positive,Microaerophilic,6.97
+STR_724,Lactobacillus,rule,Negative,Facultative Anaerobe,5.56
+STR_204,Bacillus,should,Negative,Anaerobic,4.95
+STR_279,Bacillus,reflect,Positive,Anaerobic,2.25
+STR_137,Streptococcus,such,Negative,Anaerobic,9.04
+STR_407,Staphylococcus,spend,Negative,Aerobic,2.63
+STR_955,Pseudomonas,hot,Positive,Facultative Anaerobe,1.02
+STR_262,Bacillus,television,Positive,Anaerobic,5.27
+STR_284,Clostridium,teach,Negative,Aerobic,7.96
+STR_511,Bacillus,lose,Positive,Aerobic,9.09
+STR_971,Pseudomonas,rest,Negative,Anaerobic,1.6
+STR_849,Lactobacillus,mind,Positive,Anaerobic,7.4
+STR_727,Pseudomonas,they,Positive,Anaerobic,3.79
+STR_745,Clostridium,their,Positive,Aerobic,8.61
+STR_281,Staphylococcus,value,Positive,Facultative Anaerobe,6.27
+STR_626,Bacillus,often,Positive,Microaerophilic,6.15
+STR_328,Clostridium,draw,Negative,Microaerophilic,9.45
+STR_844,Pseudomonas,contain,Negative,Microaerophilic,5.34
+STR_914,Pseudomonas,health,Negative,Anaerobic,1.34
+STR_927,Streptococcus,base,Negative,Facultative Anaerobe,7.31
+STR_673,Pseudomonas,college,Negative,Anaerobic,6.45
+STR_491,Streptococcus,shoulder,Negative,Aerobic,0.62
+STR_339,Pseudomonas,happy,Positive,Facultative Anaerobe,6.59
+STR_802,Bacillus,program,Positive,Anaerobic,4.95
+STR_772,Bacillus,already,Negative,Aerobic,7.17
+STR_406,Lactobacillus,represent,Positive,Microaerophilic,9.92
+STR_902,Clostridium,increase,Negative,Anaerobic,6.51
+STR_664,Clostridium,sign,Negative,Aerobic,2.63
+STR_126,Pseudomonas,off,Positive,Microaerophilic,5.03
+STR_994,Pseudomonas,culture,Negative,Aerobic,8.24
+STR_517,Lactobacillus,floor,Negative,Microaerophilic,7.49
+STR_564,Staphylococcus,on,Positive,Anaerobic,1.99
+STR_104,Streptococcus,drop,Positive,Microaerophilic,6.37
+STR_434,Pseudomonas,his,Negative,Microaerophilic,8.65
+STR_316,Clostridium,ever,Positive,Anaerobic,7.6
+STR_412,Lactobacillus,positive,Positive,Aerobic,6.57
+STR_219,Streptococcus,charge,Negative,Anaerobic,1.67
+STR_438,Clostridium,institution,Negative,Aerobic,4.14
+STR_471,Staphylococcus,thousand,Positive,Anaerobic,3.16
+STR_112,Clostridium,home,Positive,Aerobic,1.74
+STR_537,Pseudomonas,thousand,Positive,Anaerobic,9.04
+STR_769,Pseudomonas,first,Negative,Anaerobic,9.81
+STR_749,Lactobacillus,news,Positive,Facultative Anaerobe,4.49
+STR_876,Bacillus,blue,Positive,Aerobic,4.12
+STR_915,Streptococcus,machine,Negative,Anaerobic,4.05
+STR_112,Lactobacillus,near,Positive,Anaerobic,2.42
+STR_710,Pseudomonas,development,Negative,Microaerophilic,6.16
+STR_126,Bacillus,avoid,Negative,Anaerobic,6.86
+STR_167,Lactobacillus,of,Negative,Anaerobic,3.72
+STR_519,Streptococcus,save,Positive,Microaerophilic,7.26
+STR_659,Staphylococcus,ability,Negative,Aerobic,5.49
+STR_467,Lactobacillus,third,Positive,Microaerophilic,1.21
+STR_682,Bacillus,economic,Positive,Anaerobic,3.19
+STR_702,Clostridium,deep,Negative,Anaerobic,7.24
+STR_110,Streptococcus,seek,Positive,Anaerobic,5.91
+STR_287,Bacillus,to,Positive,Microaerophilic,8.85
+STR_412,Lactobacillus,consumer,Negative,Anaerobic,8.09
+STR_159,Bacillus,paper,Negative,Anaerobic,4.06
+STR_259,Bacillus,child,Negative,Anaerobic,4.57
+STR_210,Clostridium,way,Positive,Anaerobic,0.83
+STR_184,Clostridium,involve,Negative,Aerobic,1.25
+STR_320,Lactobacillus,quickly,Negative,Microaerophilic,7.48
+STR_677,Clostridium,century,Positive,Facultative Anaerobe,6.19
+STR_343,Pseudomonas,rock,Negative,Aerobic,7.06
